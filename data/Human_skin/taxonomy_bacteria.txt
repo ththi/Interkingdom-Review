@@ -1,0 +1,1789 @@
+OTU_325	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	g__	s__	1.00	1
+OTU_324	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Aerococcaceae	g__Alloiococcus	s__	0.67	3
+OTU_327	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	0.67	3
+OTU_326	k__Bacteria	p__Acidobacteria	c__Acidobacteria-6	o__iii1-15	f__	g__	s__	1.00	3
+OTU_321	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Peptoniphilus	s__	1.00	3
+OTU_320	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Planococcaceae	g__Planomicrobium	s__	1.00	3
+OTU_323	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Porphyromonadaceae	g__Porphyromonas	s__	0.67	3
+OTU_322	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Gordoniaceae	g__Gordonia	s__	1.00	3
+OTU_899	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__	g__	s__	1.00	3
+OTU_898	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Aeromonadales	f__Aeromonadaceae	0.67	3
+OTU_329	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Mobiluncus	s__	1.00	3
+OTU_328	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Micrococcaceae	1.00	3
+OTU_890	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Xanthomonadaceae	g__Dokdonella	s__	1.00	3
+OTU_897	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Paenibacillaceae	g__Paenibacillus	s__	1.00	3
+OTU_896	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__SC-I-84	f__	g__	s__	1.00	3
+OTU_895	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__	g__	s__	0.67	3
+OTU_894	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Gaiellales	f__Gaiellaceae	g__	s__	1.00	3
+OTU_431	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__Caulobacteraceae	g__Phenylobacterium	s__	0.67	3
+OTU_430	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	1.00	3
+OTU_433	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Neisseriales	f__Neisseriaceae	g__	s__	1.00	2
+OTU_432	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinobaculum	s__	1.00	3
+OTU_435	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_434	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__Flavisolibacter	s__	1.00	3
+OTU_437	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Geodermatophilaceae	g__Modestobacter	s__	0.67	3
+OTU_436	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Gaiellales	f__Gaiellaceae	g__	s__	1.00	3
+OTU_439	k__Bacteria	p__Acidobacteria	c__[Chloracidobacteria]	o__RB41	f__Ellin6075	g__	s__	1.00	3
+OTU_438	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Staphylococcus	s__	1.00	3
+OTU_1488	k__Bacteria	p__Bacteroidetes	c__Sphingobacteriia	o__Sphingobacteriales	f__Sphingobacteriaceae	g__	s__	1.00	3
+OTU_1489	k__Bacteria	p__Planctomycetes	c__Planctomycetia	o__Gemmatales	f__Isosphaeraceae	g__	s__	1.00	3
+OTU_1486	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Dermabacteraceae	1.00	3
+OTU_1487	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__	s__	1.00	3
+OTU_1484	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__[Entotheonellales]	f__[Entotheonellaceae]	g__	s__	1.00	3
+OTU_1485	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__Haliangiaceae	g__	s__	1.00	3
+OTU_1482	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Planococcaceae	g__Sporosarcina	s__	0.67	3
+OTU_1483	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Clostridiaceae	g__Clostridium	s__	0.67	3
+OTU_1480	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Xanthomonadaceae	g__Lysobacter	s__	0.67	3
+OTU_1481	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__[Paraprevotellaceae]	g__[Prevotella]	s__	0.67	3
+OTU_1437	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Enterobacteriales	f__Enterobacteriaceae	g__Erwinia	s__dispersa	1.00	3
+OTU_1436	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__Patulibacteraceae	g__	s__	1.00	3
+OTU_1435	k__Bacteria	p__Acidobacteria	c__Acidobacteria-5	o__	f__	g__	s__	1.00	3
+OTU_1434	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Tremblayales	f__Tremblayaceae	1.00	2
+OTU_714	k__Bacteria	p__Chlorobi	c__Ignavibacteria	o__Ignavibacteriales	f__Ignavibacteriaceae	g__	s__	1.00	3
+OTU_715	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__Capnocytophaga	s__	0.67	3
+OTU_716	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__Haliangiaceae	g__	s__	1.00	3
+OTU_1154	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	s__	0.67	3
+OTU_1155	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__Capnocytophaga	s__ochracea	0.67	3
+OTU_1156	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Micrococcaceae	g__	s__	1.00	3
+OTU_717	k__Bacteria	p__Actinobacteria	c__Rubrobacteria	o__Rubrobacterales	f__Rubrobacteraceae	g__	s__	1.00	2
+OTU_1150	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Staphylococcus	s__epidermidis	0.67	3
+OTU_1151	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__Ruminococcus	s__	0.67	3
+OTU_1152	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__Flavobacterium	s__	0.67	3
+OTU_1153	Unassigned	1.00	1
+OTU_710	k__Bacteria	p__Fusobacteria	c__Fusobacteriia	o__Fusobacteriales	f__Leptotrichiaceae	g__Leptotrichia	s__	0.67	3
+OTU_1158	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__Faecalibacterium	s__prausnitzii	1.00	3
+OTU_1159	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__Cytophagaceae	g__Spirosoma	s__	1.00	3
+OTU_711	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__	g__	s__	1.00	3
+OTU_712	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Hyphomicrobiaceae	g__	s__	0.67	3
+OTU_713	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	s__	1.00	3
+OTU_1039	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Hyphomicrobiaceae	g__Hyphomicrobium	s__	1.00	3
+OTU_1038	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	g__[Ruminococcus]	s__	1.00	3
+OTU_1037	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__MIZ46	f__	g__	s__	1.00	3
+OTU_1036	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_1035	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	1.00	3
+OTU_1034	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__Ruminococcus	s__	0.67	3
+OTU_1033	k__Bacteria	p__TM7	c__TM7-3	o__CW040	f__F16	g__	s__	1.00	3
+OTU_1032	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Paenibacillaceae	g__Paenibacillus	s__macerans	0.67	3
+OTU_1031	Unassigned	1.00	1
+OTU_1030	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingobium	s__	1.00	3
+OTU_1323	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Frankiaceae	g__	s__	0.67	3
+OTU_1322	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__Sediminibacterium	s__	1.00	3
+OTU_1321	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Xanthobacteraceae	g__Xanthobacter	s__	0.67	3
+OTU_1320	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__Sediminibacterium	s__	1.00	3
+OTU_1327	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Burkholderia	s__andropogonis	1.00	3
+OTU_1326	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	1.00	3
+OTU_1325	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Intrasporangiaceae	g__	s__	0.67	3
+OTU_1324	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_1329	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	1.00	3
+OTU_1328	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Varibaculum	s__	1.00	3
+OTU_1468	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Gaiellales	f__Gaiellaceae	g__	s__	1.00	3
+OTU_1469	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Carnobacteriaceae	g__Granulicatella	s__	0.67	3
+OTU_556	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__	g__	s__	0.67	3
+OTU_557	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Xanthomonadaceae	g__Xanthomonas	s__	0.67	3
+OTU_554	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Phyllobacteriaceae	0.67	3
+OTU_555	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Xanthomonadaceae	g__Pseudoxanthomonas	s__mexicana	0.67	3
+OTU_552	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Micrococcaceae	g__Micrococcus	s__	0.67	3
+OTU_553	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	1.00	3
+OTU_550	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Geodermatophilaceae	g__	s__	0.67	3
+OTU_551	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Brevibacteriaceae	g__Brevibacterium	s__aureum	1.00	3
+OTU_558	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Helcococcus	s__	1.00	3
+OTU_559	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Porphyromonadaceae	g__Porphyromonas	s__	1.00	3
+OTU_158	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Dietziaceae	0.67	3
+OTU_159	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Rhodocyclales	f__Rhodocyclaceae	g__Zoogloea	s__	0.67	3
+OTU_69	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__[Weeksellaceae]	g__Chryseobacterium	s__	1.00	3
+OTU_68	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__[Weeksellaceae]	g__Cloacibacterium	s__	1.00	3
+OTU_65	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__Dialister	s__	1.00	3
+OTU_64	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Staphylococcus	s__	1.00	3
+OTU_67	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__flexus	1.00	3
+OTU_66	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__Propionibacterium	s__acnes	1.00	3
+OTU_156	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__durum	0.67	3
+OTU_60	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__	s__	0.67	3
+OTU_63	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Dermabacteraceae	g__Dermabacter	s__	1.00	3
+OTU_62	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Lactococcus	s__	1.00	3
+OTU_880	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__Cytophagaceae	g__Spirosoma	s__	1.00	3
+OTU_881	k__Bacteria	p__[Thermi]	c__Deinococci	o__Deinococcales	f__Deinococcaceae	g__Deinococcus	s__	1.00	3
+OTU_882	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Methylobacteriaceae	g__Methylobacterium	s__	0.67	3
+OTU_883	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Jeotgalicoccus	s__	1.00	3
+OTU_336	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__Selenomonas	s__	1.00	3
+OTU_885	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Clostridiaceae	g__Caloramator	s__	1.00	3
+OTU_334	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Bradyrhizobiaceae	g__Bradyrhizobium	s__	0.67	3
+OTU_335	k__Bacteria	p__Actinobacteria	c__Acidimicrobiia	o__Acidimicrobiales	f__	g__	s__	1.00	3
+OTU_888	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__Cytophagaceae	g__Adhaeribacter	s__	1.00	3
+OTU_889	Unassigned	1.00	1
+OTU_338	k__Bacteria	p__Fusobacteria	c__Fusobacteriia	o__Fusobacteriales	f__Leptotrichiaceae	g__Sneathia	s__	1.00	2
+OTU_339	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Rhodocyclales	f__Rhodocyclaceae	g__Hydrogenophilus	s__	0.67	3
+OTU_652	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Gaiellales	f__Gaiellaceae	g__	s__	1.00	3
+OTU_1729	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Neisseriales	f__Neisseriaceae	1.00	3
+OTU_428	k__Bacteria	p__Acidobacteria	c__Acidobacteria-6	o__iii1-15	f__	g__	s__	1.00	3
+OTU_429	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__[Weeksellaceae]	g__Weeksella	s__virosa	1.00	1
+OTU_426	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nakamurellaceae	g__	s__	0.67	3
+OTU_427	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Pseudomonadales	f__Pseudomonadaceae	g__Pseudomonas	s__	1.00	3
+OTU_424	k__Bacteria	p__Actinobacteria	c__Coriobacteriia	o__Coriobacteriales	f__Coriobacteriaceae	g__Atopobium	s__	0.67	3
+OTU_425	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	g__Leucobacter	s__	1.00	3
+OTU_422	k__Bacteria	p__Firmicutes	c__Erysipelotrichi	o__Erysipelotrichales	f__Erysipelotrichaceae	g__Allobaculum	s__	1.00	1
+OTU_423	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	g__	s__	0.67	3
+OTU_420	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__	s__	1.00	3
+OTU_421	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__europaeus	1.00	2
+OTU_1491	k__Bacteria	p__Armatimonadetes	c__Armatimonadia	o__Armatimonadales	f__Armatimonadaceae	g__	s__	1.00	2
+OTU_1490	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__	f__	g__	s__	1.00	3
+OTU_1493	k__Bacteria	p__[Thermi]	c__Deinococci	o__Deinococcales	f__Deinococcaceae	g__Deinococcus	s__	1.00	3
+OTU_1492	k__Bacteria	p__[Thermi]	c__Deinococci	o__Deinococcales	f__Deinococcaceae	g__Deinococcus	s__	1.00	3
+OTU_1460	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__	s__	0.67	3
+OTU_1494	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__	0.67	3
+OTU_1497	k__Bacteria	p__Cyanobacteria	c__Synechococcophycideae	o__Pseudanabaenales	f__Pseudanabaenaceae	g__Leptolyngbya	s__	1.00	3
+OTU_1496	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	g__Moryella	s__	0.67	3
+OTU_1499	k__Bacteria	p__Gemmatimonadetes	c__Gemmatimonadetes	o__	f__	g__	s__	1.00	3
+OTU_1498	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__	s__	1.00	3
+OTU_1461	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Porphyromonadaceae	g__Porphyromonas	s__endodontalis	1.00	3
+OTU_1147	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	0.67	3
+OTU_1146	k__Bacteria	p__Acidobacteria	c__Acidobacteria-6	o__iii1-15	f__mb2424	g__	s__	1.00	3
+OTU_1145	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Clostridiaceae	g__Clostridium	s__	0.67	3
+OTU_1144	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__	g__	s__	1.00	3
+OTU_1143	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Bradyrhizobiaceae	g__Balneimonas	s__	0.67	3
+OTU_1142	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Alicyclobacillaceae	g__Alicyclobacillus	s__	1.00	3
+OTU_1141	k__Bacteria	p__Proteobacteria	c__Epsilonproteobacteria	o__Campylobacterales	f__Helicobacteraceae	g__Helicobacter	s__pylori	0.67	3
+OTU_1140	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Porphyromonadaceae	g__Dysgonomonas	s__	1.00	3
+OTU_1518	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Hyphomicrobiaceae	g__Rhodoplanes	s__	1.00	3
+OTU_1149	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_1148	k__Bacteria	p__Tenericutes	c__Mollicutes	o__Mycoplasmatales	f__Mycoplasmataceae	g__Mycoplasma	s__	1.00	3
+OTU_893	Unassigned	1.00	1
+OTU_1519	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Alicyclobacillaceae	g__Alicyclobacillus	s__	1.00	3
+OTU_1002	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__Schwartzia	s__	1.00	3
+OTU_1003	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Eubacteriaceae	g__Pseudoramibacter_Eubacterium	s__	0.67	3
+OTU_1000	k__Bacteria	p__Firmicutes	c__Erysipelotrichi	o__Erysipelotrichales	f__Erysipelotrichaceae	g__[Eubacterium]	s__dolichum	1.00	3
+OTU_1001	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__	s__	1.00	1
+OTU_1006	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__	g__	s__	1.00	3
+OTU_1007	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rickettsiales	f__	g__	s__	1.00	3
+OTU_1004	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Legionellales	f__Legionellaceae	g__Legionella	0.67	3
+OTU_1005	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Paenibacillaceae	g__Cohnella	s__	1.00	3
+OTU_1008	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__Flavisolibacter	s__	1.00	3
+OTU_1009	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Helcococcus	s__	1.00	3
+OTU_892	k__Bacteria	p__Gemmatimonadetes	c__Gemm-3	o__	f__	g__	s__	1.00	3
+OTU_891	k__Bacteria	p__Gemmatimonadetes	c__Gemmatimonadetes	o__	f__	g__	s__	1.00	2
+OTU_1316	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__	g__	s__	1.00	3
+OTU_1317	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Paenibacillaceae	g__Brevibacillus	s__reuszeri	1.00	3
+OTU_1314	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__Niabella	s__	1.00	3
+OTU_1315	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__MWH-UniP1	f__	g__	s__	1.00	2
+OTU_1312	k__Bacteria	p__Planctomycetes	c__Planctomycetia	o__Gemmatales	f__Isosphaeraceae	g__	s__	1.00	3
+OTU_1313	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__S24-7	g__	s__	1.00	3
+OTU_1310	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__	g__	s__	1.00	3
+OTU_1311	Unassigned	1.00	1
+OTU_1318	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__	s__	0.67	3
+OTU_1319	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__Nocardioides	s__	1.00	3
+OTU_1569	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	s__	1.00	3
+OTU_1568	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	g__Agrococcus	s__jenensis	1.00	3
+OTU_1441	k__Bacteria	p__[Thermi]	c__Deinococci	o__Deinococcales	f__Deinococcaceae	g__Deinococcus	s__	1.00	3
+OTU_1446	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__Capnocytophaga	s__ochracea	1.00	3
+OTU_1447	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__Propionibacterium	s__acnes	0.67	3
+OTU_1448	k__Bacteria	p__Proteobacteria	c__Epsilonproteobacteria	o__Campylobacterales	f__Campylobacteraceae	g__Campylobacter	s__	1.00	3
+OTU_1449	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Legionellales	f__Legionellaceae	g__Legionella	s__	1.00	3
+OTU_1659	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_1157	Unassigned	1.00	1
+OTU_1567	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Planococcaceae	g__	s__	0.67	3
+OTU_1566	k__Bacteria	p__Tenericutes	c__Mollicutes	o__RF39	f__	g__	s__	1.00	1
+OTU_1511	k__Bacteria	p__Verrucomicrobia	c__[Spartobacteria]	o__[Chthoniobacterales]	f__[Chthoniobacteraceae]	g__DA101	s__	1.00	3
+OTU_1657	k__Bacteria	p__Cyanobacteria	c__Chloroplast	o__Stramenopiles	f__	g__	s__	1.00	3
+OTU_1656	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__p-2534-18B5	g__	s__	1.00	3
+OTU_1553	Unassigned	1.00	1
+OTU_523	k__Bacteria	p__Actinobacteria	c__Coriobacteriia	o__Coriobacteriales	f__Coriobacteriaceae	g__	s__	1.00	3
+OTU_522	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Aurantimonadaceae	g__	s__	0.67	3
+OTU_521	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Anoxybacillus	s__kestanbolensis	1.00	3
+OTU_520	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Oxalobacteraceae	g__Ralstonia	s__	0.67	3
+OTU_527	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__	0.67	3
+OTU_526	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__	g__	s__	1.00	1
+OTU_525	k__Bacteria	p__TM7	c__TM7-1	o__	f__	g__	s__	1.00	3
+OTU_524	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Geodermatophilaceae	g__	s__	0.67	3
+OTU_529	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__Acidovorax	0.67	3
+OTU_528	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__Phascolarctobacterium	s__	1.00	3
+OTU_191	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Brevibacteriaceae	g__Brevibacterium	s__	0.67	3
+OTU_58	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__Veillonella	s__dispar	1.00	3
+OTU_59	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodobacterales	f__Rhodobacteraceae	g__Paracoccus	s__aminovorans	0.67	3
+OTU_50	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Parvimonas	s__	0.67	3
+OTU_51	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__WAL_1855D	s__	1.00	3
+OTU_52	k__Bacteria	p__Firmicutes	c__Bacilli	o__Gemellales	f__Gemellaceae	g__	s__	0.67	3
+OTU_53	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Methylobacteriaceae	g__	s__	1.00	3
+OTU_54	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Carnobacteriaceae	g__Granulicatella	s__	1.00	3
+OTU_55	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__	1.00	3
+OTU_56	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	0.67	3
+OTU_57	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__WAL_1855D	s__	1.00	3
+OTU_402	k__Bacteria	p__Spirochaetes	c__Spirochaetes	o__Spirochaetales	f__Spirochaetaceae	g__Treponema	s__	1.00	3
+OTU_181	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Peptoniphilus	s__	1.00	3
+OTU_180	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__Capnocytophaga	s__	1.00	3
+OTU_183	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Mogibacteriaceae]	g__Mogibacterium	s__	0.67	3
+OTU_182	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Rhizobiaceae	g__Agrobacterium	s__	1.00	3
+OTU_185	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__nanceiensis	1.00	3
+OTU_184	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__[Weeksellaceae]	g__	s__	1.00	3
+OTU_639	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__[Weeksellaceae]	g__	s__	1.00	3
+OTU_638	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__[Paraprevotellaceae]	g__[Prevotella]	s__	1.00	3
+OTU_637	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	1.00	3
+OTU_636	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Geodermatophilaceae	g__Geodermatophilus	s__	0.67	3
+OTU_635	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Lactococcus	s__	1.00	3
+OTU_634	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Mycobacteriaceae	g__Mycobacterium	s__	1.00	3
+OTU_633	k__Bacteria	p__BRC1	c__PRR-11	o__	f__	g__	s__	1.00	1
+OTU_632	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	1.00	3
+OTU_631	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	g__Coprococcus	s__	0.67	3
+OTU_630	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	1.00	3
+OTU_94	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	s__	1.00	3
+OTU_162	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_161	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	s__anginosus	1.00	3
+OTU_97	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Aerococcaceae	g__Abiotrophia	s__	0.67	3
+OTU_90	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Mycobacteriaceae	g__Mycobacterium	s__	0.67	3
+OTU_91	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	1.00	3
+OTU_92	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_93	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Oxalobacteraceae	g__Herbaspirillum	s__	1.00	3
+OTU_989	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	1.00	3
+OTU_988	k__Bacteria	p__Acidobacteria	c__iii1-8	o__DS-18	f__	g__	s__	1.00	3
+OTU_459	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__	1.00	3
+OTU_458	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__Selenomonas	s__	1.00	3
+OTU_453	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Lactobacillaceae	g__Lactobacillus	s__reuteri	0.67	3
+OTU_452	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__Comamonas	s__	0.67	3
+OTU_983	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinobaculum	s__	1.00	1
+OTU_982	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__	g__	s__	1.00	3
+OTU_985	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Micromonosporaceae	1.00	3
+OTU_456	k__Bacteria	p__Bacteroidetes	c__Sphingobacteriia	o__Sphingobacteriales	f__Sphingobacteriaceae	g__	s__	1.00	3
+OTU_455	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodospirillales	f__Rhodospirillaceae	g__	s__	1.00	3
+OTU_454	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Paenibacillaceae	g__Paenibacillus	s__lautus	0.67	3
+OTU_1178	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodospirillales	f__Rhodospirillaceae	g__	s__	0.67	3
+OTU_1179	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Aurantimonadaceae	g__	s__	1.00	3
+OTU_1172	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Bradyrhizobiaceae	0.67	3
+OTU_1173	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodospirillales	f__Acetobacteraceae	1.00	3
+OTU_1170	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_1171	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodobacterales	f__Rhodobacteraceae	g__Paracoccus	s__aminovorans	0.67	3
+OTU_1176	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Methylocystaceae	g__	s__	0.67	3
+OTU_1177	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__Conexibacteraceae	g__Conexibacter	s__	0.67	3
+OTU_1174	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__[Weeksellaceae]	g__Chryseobacterium	s__	0.67	3
+OTU_1175	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Cellulomonadaceae	g__Demequina	s__	1.00	3
+OTU_857	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	1.00	3
+OTU_856	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__Dialister	s__	1.00	3
+OTU_855	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__Cytophagaceae	g__Hymenobacter	s__	1.00	3
+OTU_854	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	0.67	3
+OTU_853	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__Flavisolibacter	s__	1.00	3
+OTU_852	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__Propionibacterium	s__acnes	1.00	3
+OTU_851	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__Lampropedia	s__	1.00	3
+OTU_850	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Pseudonocardiaceae	g__Pseudonocardia	s__	1.00	3
+OTU_1770	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__Sediminibacterium	s__	0.67	3
+OTU_1771	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__Flavisolibacter	s__	1.00	3
+OTU_1772	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Xanthobacteraceae	g__Labrys	s__	1.00	3
+OTU_1698	k__Bacteria	p__Firmicutes	c__Bacilli	o__Gemellales	f__Gemellaceae	g__Gemella	s__	1.00	3
+OTU_1774	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Clostridiaceae	g__Clostridium	0.67	3
+OTU_1775	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingomonas	s__wittichii	1.00	3
+OTU_859	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__	g__	s__	1.00	3
+OTU_858	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Alcaligenaceae	g__	s__	0.67	3
+OTU_1695	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Xanthomonadaceae	g__Stenotrophomonas	s__	0.67	3
+OTU_1694	k__Bacteria	p__Actinobacteria	c__MB-A2-108	o__0319-7L14	f__	g__	s__	1.00	3
+OTU_1015	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	g__Coprococcus	s__	1.00	3
+OTU_1014	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__Propionicimonas	s__	1.00	3
+OTU_1017	Unassigned	1.00	1
+OTU_1016	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Oxalobacteraceae	g__Polynucleobacter	s__	1.00	3
+OTU_1011	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__Flavisolibacter	s__	1.00	3
+OTU_1010	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Clostridiaceae	g__Clostridium	s__	0.67	3
+OTU_1013	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__Flavobacterium	s__	1.00	3
+OTU_1012	k__Bacteria	p__Acidobacteria	c__iii1-8	o__DS-18	f__	g__	s__	1.00	3
+OTU_1019	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Porphyromonadaceae	g__Tannerella	s__	1.00	3
+OTU_1018	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__Flavisolibacter	s__	1.00	3
+OTU_1416	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	g__	s__	1.00	3
+OTU_1309	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__Rubrivivax	s__	0.67	3
+OTU_1308	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	g__Coprococcus	s__	0.67	3
+OTU_1301	Unassigned	1.00	1
+OTU_1300	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__	1.00	3
+OTU_1303	k__Bacteria	p__Tenericutes	c__Mollicutes	o__RF39	f__	g__	s__	1.00	3
+OTU_1302	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Mycobacteriaceae	g__Mycobacterium	s__	1.00	3
+OTU_1305	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Anoxybacillus	s__kestanbolensis	1.00	3
+OTU_1304	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__	1.00	3
+OTU_1307	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__	g__	s__	1.00	3
+OTU_1306	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodobacterales	f__Rhodobacteraceae	g__Amaricoccus	s__	0.67	3
+OTU_674	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__	0.67	3
+OTU_1557	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__[Weeksellaceae]	g__Chryseobacterium	s__	1.00	3
+OTU_530	k__Bacteria	p__TM7	c__TM7-3	o__	f__	g__	s__	1.00	1
+OTU_531	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_532	k__Bacteria	p__Cyanobacteria	c__Chloroplast	o__Haptophyceae	f__	g__	s__	1.00	3
+OTU_533	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	1
+OTU_534	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Bacteroidaceae	g__Bacteroides	s__	1.00	3
+OTU_535	k__Bacteria	p__Fusobacteria	c__Fusobacteriia	o__Fusobacteriales	f__Leptotrichiaceae	g__Leptotrichia	s__	1.00	3
+OTU_536	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Paenibacillaceae	g__Paenibacillus	s__	1.00	3
+OTU_537	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__	s__	0.67	3
+OTU_538	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__	s__	1.00	3
+OTU_539	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Legionellales	f__Coxiellaceae	g__Rickettsiella	s__	0.67	3
+OTU_47	k__Bacteria	p__Cyanobacteria	c__Oscillatoriophycideae	0.67	3
+OTU_46	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_45	k__Bacteria	p__Cyanobacteria	c__Oscillatoriophycideae	o__Chroococcales	f__Xenococcaceae	g__	s__	1.00	3
+OTU_44	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	s__	0.67	3
+OTU_43	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Micrococcaceae	g__Kocuria	s__rhizophila	1.00	3
+OTU_42	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	1
+OTU_41	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Neisseriales	f__Neisseriaceae	g__Neisseria	s__	1.00	3
+OTU_40	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_49	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__melaninogenica	0.67	3
+OTU_48	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Lautropia	s__	1.00	3
+OTU_1785	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	g__Coprococcus	s__	1.00	3
+OTU_1784	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	0.67	3
+OTU_1787	k__Bacteria	p__Fusobacteria	c__Fusobacteriia	o__Fusobacteriales	f__Fusobacteriaceae	g__Fusobacterium	s__	1.00	3
+OTU_1786	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Micrococcaceae	g__Nesterenkonia	s__	0.67	3
+OTU_1781	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__copri	1.00	3
+OTU_1780	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__	g__	s__	0.67	3
+OTU_1783	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Paenibacillaceae	g__Paenibacillus	s__	1.00	3
+OTU_1782	k__Bacteria	p__Cyanobacteria	c__Chloroplast	o__Streptophyta	f__	g__	s__	1.00	3
+OTU_1789	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Lactobacillaceae	g__Lactobacillus	s__	0.67	3
+OTU_1788	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__Dialister	s__	1.00	3
+OTU_1543	k__Bacteria	p__Acidobacteria	c__Acidobacteria-6	o__iii1-15	f__	g__	s__	1.00	3
+OTU_1542	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Bradyrhizobiaceae	0.67	3
+OTU_1541	k__Bacteria	p__Acidobacteria	c__Acidobacteria-6	o__iii1-15	f__	g__	s__	1.00	3
+OTU_1540	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__	s__	1.00	3
+OTU_628	k__Bacteria	p__Acidobacteria	c__[Chloracidobacteria]	o__RB41	f__Ellin6075	g__	s__	0.67	3
+OTU_629	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Peptococcaceae	g__rc4-4	s__	1.00	3
+OTU_198	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__	1.00	3
+OTU_199	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Xanthomonadaceae	g__Luteimonas	s__	0.67	3
+OTU_196	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodobacterales	f__Rhodobacteraceae	g__Paracoccus	s__	0.67	3
+OTU_197	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__Cystobacteraceae	0.67	3
+OTU_194	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardiaceae	g__Rhodococcus	s__fascians	1.00	3
+OTU_627	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Paenibacillaceae	g__Brevibacillus	s__	1.00	3
+OTU_620	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Gordoniaceae	g__Gordonia	s__	1.00	3
+OTU_621	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__	1.00	3
+OTU_622	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Intrasporangiaceae	1.00	3
+OTU_623	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Dermabacteraceae	g__Brachybacterium	s__conglomeratum	0.67	3
+OTU_945	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rickettsiales	f__mitochondria	1.00	3
+OTU_416	k__Bacteria	p__Actinobacteria	c__Coriobacteriia	o__Coriobacteriales	f__Coriobacteriaceae	g__	s__	1.00	1
+OTU_947	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_946	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Rhizobiaceae	1.00	3
+OTU_941	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Pseudonocardiaceae	g__Actinomycetospora	s__	1.00	3
+OTU_940	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Lactococcus	s__	0.67	3
+OTU_996	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Hyphomicrobiaceae	g__Devosia	s__	0.67	3
+OTU_997	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__Oscillospira	s__	0.67	3
+OTU_994	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardiaceae	g__Nocardia	s__	0.67	3
+OTU_995	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Lactobacillaceae	g__Lactobacillus	s__	1.00	3
+OTU_992	k__Bacteria	p__Bacteroidetes	c__Sphingobacteriia	o__Sphingobacteriales	f__Sphingobacteriaceae	g__Sphingobacterium	s__	0.67	3
+OTU_993	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Planococcaceae	g__Rummeliibacillus	s__	1.00	3
+OTU_990	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Clostridiaceae	1.00	3
+OTU_991	k__Bacteria	p__Acidobacteria	c__Acidobacteria-6	o__iii1-15	f__	g__	s__	1.00	3
+OTU_410	k__Bacteria	p__[Thermi]	c__Deinococci	o__Deinococcales	f__Deinococcaceae	g__Deinococcus	s__	1.00	1
+OTU_998	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__Cytophagaceae	g__Hymenobacter	s__	1.00	3
+OTU_999	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodobacterales	f__Rhodobacteraceae	g__Rubellimicrobium	s__	1.00	3
+OTU_448	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__	s__	1.00	3
+OTU_449	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	1.00	3
+OTU_440	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__	1.00	3
+OTU_441	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__	g__	s__	1.00	3
+OTU_442	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__	g__	s__	0.67	3
+OTU_443	k__Bacteria	p__Cyanobacteria	c__Chloroplast	o__Chlorophyta	f__	g__	s__	1.00	1
+OTU_444	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodobacterales	f__Rhodobacteraceae	g__Paracoccus	s__	0.67	3
+OTU_445	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Gaiellales	f__Gaiellaceae	g__	s__	1.00	3
+OTU_446	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__Selenomonas	s__noxia	1.00	3
+OTU_447	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Geobacillus	s__	1.00	3
+OTU_1626	Unassigned	1.00	1
+OTU_1627	k__Bacteria	p__Gemmatimonadetes	c__Gemmatimonadetes	o__Gemmatimonadales	f__	g__	s__	1.00	3
+OTU_1624	k__Bacteria	p__Actinobacteria	c__Acidimicrobiia	o__Acidimicrobiales	f__C111	g__	s__	1.00	3
+OTU_1625	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Micrococcaceae	g__Arthrobacter	s__	1.00	3
+OTU_1169	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Finegoldia	s__	1.00	3
+OTU_1168	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodospirillales	f__Acetobacteraceae	g__	s__	0.67	3
+OTU_1165	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__	s__	1.00	3
+OTU_1164	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__Propionibacterium	s__acnes	1.00	3
+OTU_1167	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Pseudomonadales	f__Moraxellaceae	g__Acinetobacter	s__	0.67	3
+OTU_1166	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	s__	1.00	3
+OTU_1161	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	s__	1.00	3
+OTU_1160	k__Bacteria	p__Gemmatimonadetes	c__Gemmatimonadetes	o__Gemmatimonadales	f__	g__	s__	1.00	3
+OTU_1163	k__Bacteria	p__Firmicutes	c__Erysipelotrichi	o__Erysipelotrichales	f__Erysipelotrichaceae	g__	s__	1.00	3
+OTU_1162	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Peptoniphilus	s__	0.67	3
+OTU_844	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_845	k__Bacteria	p__Chlorobi	c__Ignavibacteria	o__Ignavibacteriales	f__Ignavibacteriaceae	g__	s__	1.00	3
+OTU_846	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__Nocardioides	s__	0.67	3
+OTU_847	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	g__Oribacterium	s__	1.00	3
+OTU_840	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__Megasphaera	s__	0.67	3
+OTU_841	k__Bacteria	p__Planctomycetes	c__Planctomycetia	o__Gemmatales	f__Isosphaeraceae	g__	s__	1.00	3
+OTU_842	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	1.00	3
+OTU_843	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	0.67	3
+OTU_1763	Unassigned	1.00	1
+OTU_1762	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Bdellovibrionales	f__Bdellovibrionaceae	g__Bdellovibrio	s__	1.00	3
+OTU_1761	k__Bacteria	p__Acidobacteria	c__Acidobacteria-6	o__CCU21	f__	g__	s__	1.00	3
+OTU_1746	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__Flavisolibacter	s__	1.00	3
+OTU_848	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__Oscillospira	s__	1.00	3
+OTU_849	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__Cytophagaceae	g__Hymenobacter	s__	1.00	3
+OTU_1765	k__Bacteria	p__Synergistetes	c__Synergistia	o__Synergistales	f__Dethiosulfovibrionaceae	g__Pyramidobacter	s__	1.00	2
+OTU_1764	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	0.67	3
+OTU_1749	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Lactobacillaceae	g__Pediococcus	s__acidilactici	0.67	3
+OTU_1748	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	1.00	3
+OTU_1378	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Kineosporiaceae	g__Kineococcus	s__	0.67	3
+OTU_1379	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__	s__	0.67	3
+OTU_1374	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Gaiellales	f__Gaiellaceae	g__	s__	0.67	3
+OTU_1375	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Streptomycetaceae	g__Streptomyces	s__	1.00	3
+OTU_1376	k__Bacteria	p__Cyanobacteria	c__Oscillatoriophycideae	o__Chroococcales	f__Xenococcaceae	g__	s__	0.67	3
+OTU_1377	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Paenibacillaceae	g__Paenibacillus	s__	1.00	3
+OTU_1370	Unassigned	1.00	1
+OTU_1371	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Porphyromonadaceae	g__Porphyromonas	s__	1.00	3
+OTU_1372	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Pseudonocardiaceae	g__Pseudonocardia	s__	1.00	3
+OTU_1373	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_1200	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	1.00	3
+OTU_1201	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	1
+OTU_1202	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodospirillales	f__Acetobacteraceae	g__	s__	1.00	3
+OTU_1203	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__Friedmanniella	s__	1.00	3
+OTU_1204	k__Bacteria	p__Actinobacteria	c__Coriobacteriia	o__Coriobacteriales	f__Coriobacteriaceae	g__Adlercreutzia	s__	1.00	3
+OTU_1205	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Methylocystaceae	g__	s__	1.00	3
+OTU_1206	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingomonas	s__	1.00	3
+OTU_1207	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Hyphomicrobiaceae	g__Pedomicrobium	s__	0.67	3
+OTU_1208	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__S24-7	g__	s__	1.00	3
+OTU_1209	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	g__	s__	0.67	3
+OTU_1405	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Rikenellaceae	g__	s__	0.67	3
+OTU_215	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	0.67	3
+OTU_1282	k__Bacteria	p__Acidobacteria	c__Sva0725	o__Sva0725	f__	g__	s__	1.00	3
+OTU_214	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Alcaligenaceae	g__Oligella	s__	1.00	3
+OTU_217	k__Bacteria	p__TM7	c__TM7-1	o__	f__	g__	s__	1.00	3
+OTU_216	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Erythrobacteraceae	0.67	3
+OTU_211	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__	1.00	3
+OTU_746	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Pseudonocardiaceae	g__Saccharopolyspora	s__	1.00	3
+OTU_213	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Intrasporangiaceae	g__Knoellia	0.67	3
+OTU_212	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Pasteurellales	f__Pasteurellaceae	g__Haemophilus	s__parainfluenzae	0.67	3
+OTU_1466	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__	g__	s__	0.67	3
+OTU_1467	Unassigned	1.00	1
+OTU_509	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__	1.00	3
+OTU_508	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__	g__	s__	1.00	3
+OTU_505	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__Propionibacterium	s__acnes	1.00	3
+OTU_504	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__	s__	1.00	3
+OTU_507	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__	g__	s__	1.00	3
+OTU_506	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Aerococcaceae	g__	s__	0.67	3
+OTU_501	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Cardiobacteriales	f__Cardiobacteriaceae	g__Cardiobacterium	s__	1.00	3
+OTU_500	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	1.00	3
+OTU_503	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	1.00	3
+OTU_502	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__	g__	s__	1.00	3
+OTU_32	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Peptoniphilus	s__	0.67	3
+OTU_33	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	s__	0.67	3
+OTU_30	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_31	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__[Weeksellaceae]	g__	s__	0.67	3
+OTU_36	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__	s__	0.67	3
+OTU_37	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	s__	0.67	3
+OTU_34	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	s__	0.67	3
+OTU_35	k__Bacteria	p__Proteobacteria	c__Epsilonproteobacteria	o__Campylobacterales	f__Campylobacteraceae	g__Campylobacter	s__	0.67	3
+OTU_38	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Micrococcaceae	g__Rothia	s__dentocariosa	0.67	3
+OTU_39	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Peptoniphilus	s__	1.00	3
+OTU_1547	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Clostridiaceae	g__Clostridium	s__	0.67	3
+OTU_1546	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__Ruminococcus	s__	0.67	3
+OTU_1545	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_1544	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__	s__	1.00	3
+OTU_619	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__	1.00	3
+OTU_618	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__	g__	s__	1.00	3
+OTU_1574	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	g__	s__	0.67	3
+OTU_1575	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_1572	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Micrococcaceae	g__Arthrobacter	s__	1.00	3
+OTU_1573	k__Bacteria	p__Acidobacteria	c__Acidobacteria-6	o__CCU21	f__	g__	s__	1.00	3
+OTU_1570	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Staphylococcus	s__aureus	1.00	3
+OTU_625	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__	s__	1.00	3
+OTU_611	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Oxalobacteraceae	g__	s__	1.00	3
+OTU_610	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Bacteroidaceae	g__Bacteroides	s__	1.00	3
+OTU_613	k__Bacteria	p__TM7	c__TM7-3	o__	f__	g__	s__	1.00	3
+OTU_612	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_615	k__Bacteria	p__[Thermi]	c__Deinococci	o__Deinococcales	f__Deinococcaceae	g__Deinococcus	s__	1.00	3
+OTU_614	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Porphyromonadaceae	g__Porphyromonas	s__	1.00	3
+OTU_617	k__Bacteria	p__Actinobacteria	c__Coriobacteriia	o__Coriobacteriales	f__Coriobacteriaceae	g__Atopobium	s__vaginae	1.00	1
+OTU_616	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_195	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Aurantimonadaceae	g__	s__	0.67	3
+OTU_192	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Aerococcaceae	g__Facklamia	s__	1.00	3
+OTU_193	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Brevibacteriaceae	g__Brevibacterium	s__	0.67	3
+OTU_299	k__Bacteria	p__Firmicutes	c__Erysipelotrichi	o__Erysipelotrichales	f__Erysipelotrichaceae	g__	s__	1.00	3
+OTU_298	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	g__Blautia	s__	0.67	3
+OTU_295	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__melaninogenica	0.67	3
+OTU_294	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	g__Moryella	0.67	3
+OTU_297	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Neisseriales	f__Neisseriaceae	g__	s__	0.67	3
+OTU_296	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__[Weeksellaceae]	g__Chryseobacterium	s__	1.00	3
+OTU_291	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_290	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Peptoniphilus	s__	1.00	3
+OTU_293	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Porphyromonadaceae	g__Porphyromonas	s__	1.00	3
+OTU_292	k__Bacteria	p__Firmicutes	c__Bacilli	o__Turicibacterales	f__Turicibacteraceae	g__Turicibacter	s__	1.00	3
+OTU_475	k__Bacteria	p__Fusobacteria	c__Fusobacteriia	o__Fusobacteriales	f__Leptotrichiaceae	g__Leptotrichia	s__	1.00	3
+OTU_474	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Neisseriales	f__Neisseriaceae	g__	s__	0.67	3
+OTU_477	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__	0.67	3
+OTU_476	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Pseudomonadales	f__Moraxellaceae	g__Acinetobacter	s__johnsonii	0.67	3
+OTU_471	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingobium	s__	0.67	3
+OTU_470	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	1.00	3
+OTU_473	k__Bacteria	p__Cyanobacteria	c__Chloroplast	o__Streptophyta	f__	g__	s__	1.00	3
+OTU_472	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	1.00	3
+OTU_1684	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__[Amoebophilaceae]	g__SC3-56	s__	1.00	3
+OTU_1685	k__Bacteria	p__Verrucomicrobia	c__[Spartobacteria]	o__[Chthoniobacterales]	f__[Chthoniobacteraceae]	g__Ellin506	s__	1.00	3
+OTU_1686	k__Bacteria	p__Cyanobacteria	c__Nostocophycideae	o__Nostocales	f__Nostocaceae	0.67	3
+OTU_1687	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Planococcaceae	g__Solibacillus	s__	1.00	3
+OTU_479	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	1.00	3
+OTU_478	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	1.00	3
+OTU_1682	k__Bacteria	p__Nitrospirae	c__Nitrospira	o__Nitrospirales	f__Nitrospiraceae	g__Nitrospira	s__	1.00	3
+OTU_1683	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__	g__	s__	1.00	3
+OTU_277	k__Bacteria	p__Firmicutes	c__Erysipelotrichi	o__Erysipelotrichales	f__Erysipelotrichaceae	g__Bulleidia	s__	0.67	3
+OTU_276	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	g__Curtobacterium	s__	1.00	3
+OTU_275	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__Veillonella	s__	1.00	3
+OTU_274	k__Bacteria	p__Bacteroidetes	c__Sphingobacteriia	o__Sphingobacteriales	f__Sphingobacteriaceae	g__Sphingobacterium	s__	0.67	3
+OTU_273	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	s__	1.00	3
+OTU_272	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Pseudomonadales	f__Moraxellaceae	g__Acinetobacter	s__	1.00	3
+OTU_271	k__Bacteria	p__Proteobacteria	c__Epsilonproteobacteria	o__Campylobacterales	f__Campylobacteraceae	g__Campylobacter	s__	1.00	3
+OTU_270	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	g__	s__	1.00	3
+OTU_279	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Neisseriales	f__Neisseriaceae	g__Conchiformibius	s__	0.67	3
+OTU_278	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Rhodocyclales	f__Rhodocyclaceae	g__Dechloromonas	s__	1.00	3
+OTU_1190	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Micrococcaceae	g__Arthrobacter	s__psychrolactophilus	0.67	3
+OTU_1191	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Enterococcaceae	g__Tetragenococcus	s__halophilus	0.67	3
+OTU_1192	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Intrasporangiaceae	g__	s__	0.67	3
+OTU_1193	k__Bacteria	p__[Thermi]	c__Deinococci	o__Thermales	f__Thermaceae	g__Thermus	s__	1.00	3
+OTU_1194	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Frankiaceae	0.67	3
+OTU_1195	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Aerococcaceae	g__Facklamia	s__	1.00	3
+OTU_1196	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__Dialister	s__	1.00	1
+OTU_1197	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Xanthomonadaceae	g__Rhodanobacter	s__lindaniclasticus	0.67	3
+OTU_1198	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__Aeromicrobium	s__	0.67	3
+OTU_1199	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_1408	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_871	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__	g__	s__	1.00	3
+OTU_870	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__[Exiguobacteraceae]	g__Exiguobacterium	s__	1.00	3
+OTU_873	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	1.00	3
+OTU_872	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__[Paraprevotellaceae]	g__[Prevotella]	s__	1.00	3
+OTU_875	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__Cytophagaceae	g__Spirosoma	s__	1.00	3
+OTU_874	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Sinobacteraceae	g__	s__	1.00	3
+OTU_877	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__BSV43	s__	1.00	3
+OTU_876	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__	s__	0.67	3
+OTU_879	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__Aeromicrobium	s__	0.67	3
+OTU_878	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Bacteroidaceae	g__Bacteroides	s__	1.00	3
+OTU_1754	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_1755	Unassigned	1.00	1
+OTU_1752	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodobacterales	f__Rhodobacteraceae	g__Rubellimicrobium	s__	1.00	3
+OTU_1753	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__Capnocytophaga	s__	1.00	3
+OTU_1750	k__Bacteria	p__BHI80-139	c__	o__	f__	g__	s__	1.00	1
+OTU_1751	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__	g__	s__	1.00	3
+OTU_1409	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__Propionibacterium	s__acnes	1.00	3
+OTU_1571	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Rhizobiaceae	g__	s__	0.67	3
+OTU_1369	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__Propionibacterium	s__acnes	1.00	3
+OTU_1368	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__Oscillospira	s__	1.00	3
+OTU_1367	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Leuconostocaceae	g__	s__	0.67	3
+OTU_1366	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Caldicoprobacteraceae	g__Caldicoprobacter	s__	1.00	1
+OTU_1365	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__Conexibacteraceae	g__	s__	0.67	3
+OTU_1364	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__[Exiguobacteraceae]	g__Exiguobacterium	s__	1.00	3
+OTU_1363	k__Bacteria	p__Fusobacteria	c__Fusobacteriia	o__Fusobacteriales	f__Fusobacteriaceae	g__Fusobacterium	s__	1.00	3
+OTU_1362	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__GW-34	s__	1.00	3
+OTU_1361	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__Oscillospira	s__	1.00	3
+OTU_1360	k__Bacteria	p__Fusobacteria	c__Fusobacteriia	o__Fusobacteriales	f__Leptotrichiaceae	g__	s__	0.67	3
+OTU_1213	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__Cyclobacteriaceae	g__	s__	1.00	3
+OTU_1212	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__Flavobacterium	s__	0.67	3
+OTU_1211	Unassigned	1.00	1
+OTU_1210	k__Bacteria	p__Tenericutes	c__Mollicutes	o__RF39	f__	g__	s__	1.00	2
+OTU_1217	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__Ruminococcus	s__	1.00	3
+OTU_1216	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	g__	s__	1.00	3
+OTU_1215	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Porphyromonadaceae	g__Porphyromonas	s__	1.00	3
+OTU_1214	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodospirillales	f__Rhodospirillaceae	g__Azospirillum	s__	1.00	3
+OTU_1219	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	g__Microbacterium	s__chocolatum	0.67	3
+OTU_1218	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Peptococcaceae	g__	s__	1.00	3
+OTU_518	k__Bacteria	p__Bacteroidetes	c__Sphingobacteriia	o__Sphingobacteriales	f__Sphingobacteriaceae	g__Sphingobacterium	s__mizutaii	0.67	3
+OTU_519	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__Veillonella	s__parvula	1.00	3
+OTU_512	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Peptococcaceae	g__Peptococcus	s__	1.00	1
+OTU_513	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__[Weeksellaceae]	g__Cloacibacterium	s__	1.00	3
+OTU_510	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Cardiobacteriales	f__Cardiobacteriaceae	g__Cardiobacterium	s__	1.00	3
+OTU_511	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	g__	s__	1.00	2
+OTU_516	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodospirillales	f__Acetobacteraceae	g__	s__	0.67	3
+OTU_517	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Dermabacteraceae	g__Brachybacterium	s__	0.67	3
+OTU_514	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__Nocardioides	s__	1.00	3
+OTU_515	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__	s__	0.67	3
+OTU_21	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Enterobacteriales	f__Enterobacteriaceae	g__	s__	0.67	3
+OTU_20	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Clostridiaceae	g__Clostridium	s__	1.00	1
+OTU_23	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Micrococcaceae	g__Micrococcus	s__luteus	0.67	3
+OTU_22	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	s__	1.00	3
+OTU_25	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Porphyromonadaceae	g__Porphyromonas	s__	1.00	3
+OTU_24	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Micrococcaceae	g__Rothia	s__mucilaginosa	0.67	3
+OTU_27	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Porphyromonadaceae	g__Porphyromonas	s__	1.00	3
+OTU_26	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__1-68	s__	1.00	3
+OTU_29	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__	s__	0.67	3
+OTU_28	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodospirillales	f__Acetobacteraceae	g__Gluconobacter	s__	1.00	3
+OTU_606	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__Caulobacteraceae	g__Phenylobacterium	s__	1.00	3
+OTU_607	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Staphylococcus	s__	0.67	3
+OTU_604	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Parvimonas	s__	1.00	3
+OTU_605	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Rhodocyclales	f__Rhodocyclaceae	1.00	3
+OTU_602	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	1.00	3
+OTU_603	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Lactobacillaceae	g__Lactobacillus	s__	1.00	3
+OTU_600	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__S24-7	g__	s__	1.00	3
+OTU_601	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rickettsiales	f__Pelagibacteraceae	g__	s__	1.00	3
+OTU_1561	k__Bacteria	p__Chlorobi	c__OPB56	o__	f__	g__	s__	1.00	3
+OTU_1560	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__Cytophagaceae	g__Hymenobacter	s__	1.00	3
+OTU_1563	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__	g__	s__	0.67	3
+OTU_1562	k__Bacteria	p__[Thermi]	c__Deinococci	o__Deinococcales	f__Deinococcaceae	g__Deinococcus	s__	1.00	3
+OTU_1565	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Paenibacillaceae	g__Paenibacillus	s__	1.00	3
+OTU_1564	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__Propionicimonas	s__	0.67	3
+OTU_608	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__	1.00	3
+OTU_609	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Leuconostocaceae	g__Leuconostoc	s__	1.00	3
+OTU_288	k__Bacteria	p__Cyanobacteria	c__Chloroplast	o__Streptophyta	f__	g__	s__	1.00	3
+OTU_289	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	g__Rathayibacter	s__caricis	0.67	3
+OTU_282	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__	1.00	3
+OTU_283	k__Bacteria	p__Proteobacteria	c__Epsilonproteobacteria	o__Campylobacterales	f__Campylobacteraceae	g__Campylobacter	s__	1.00	3
+OTU_280	k__Bacteria	p__Tenericutes	c__Mollicutes	o__Mycoplasmatales	f__Mycoplasmataceae	g__Mycoplasma	s__	1.00	3
+OTU_281	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__[Exiguobacteraceae]	g__Exiguobacterium	s__	1.00	3
+OTU_286	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	g__Microbacterium	s__	0.67	3
+OTU_287	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Mobiluncus	s__	1.00	3
+OTU_284	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Aerococcaceae	g__Facklamia	s__	1.00	3
+OTU_285	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Gaiellales	f__Gaiellaceae	g__	s__	1.00	3
+OTU_462	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Clostridiaceae	1.00	2
+OTU_463	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__Selenomonas	s__	1.00	3
+OTU_460	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__Propionibacterium	s__acnes	0.67	3
+OTU_461	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	g__	s__	1.00	3
+OTU_466	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Peptoniphilus	s__	1.00	3
+OTU_467	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	g__Microbacterium	s__	0.67	3
+OTU_464	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__Capnocytophaga	s__ochracea	1.00	3
+OTU_465	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__	1.00	3
+OTU_1697	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Oxalobacteraceae	g__	s__	1.00	3
+OTU_1696	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__	g__	s__	1.00	3
+OTU_468	k__Bacteria	p__Planctomycetes	c__Planctomycetia	o__Gemmatales	f__Isosphaeraceae	g__	s__	1.00	3
+OTU_469	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__[Weeksellaceae]	g__	s__	1.00	3
+OTU_1693	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Gaiellales	f__Gaiellaceae	g__	s__	1.00	3
+OTU_1692	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Peptoniphilus	s__	1.00	3
+OTU_1691	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Legionellales	f__Legionellaceae	g__	s__	0.67	3
+OTU_1690	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Sinobacteraceae	g__	s__	1.00	3
+OTU_264	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Staphylococcus	s__epidermidis	0.67	3
+OTU_265	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Staphylococcus	s__	1.00	3
+OTU_266	k__Bacteria	p__Fusobacteria	c__Fusobacteriia	o__Fusobacteriales	f__Leptotrichiaceae	g__Leptotrichia	s__	1.00	3
+OTU_267	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Lactobacillaceae	g__Lactobacillus	s__	1.00	3
+OTU_260	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingomonas	s__	0.67	3
+OTU_261	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_262	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Carnobacteriaceae	g__Trichococcus	s__	1.00	3
+OTU_263	k__Bacteria	p__Acidobacteria	c__Acidobacteria-6	o__iii1-15	f__	g__	s__	1.00	3
+OTU_268	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_269	k__Bacteria	p__Fusobacteria	c__Fusobacteriia	o__Fusobacteriales	f__Leptotrichiaceae	g__Leptotrichia	s__	0.67	3
+OTU_1438	Unassigned	1.00	1
+OTU_1183	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__	s__	1.00	3
+OTU_1182	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Rhizobiaceae	g__Agrobacterium	s__	1.00	3
+OTU_1181	k__Bacteria	p__[Thermi]	c__Deinococci	o__Deinococcales	f__Deinococcaceae	g__Deinococcus	s__	1.00	3
+OTU_1180	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__Propionibacterium	s__acnes	1.00	3
+OTU_1187	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Bacteroidaceae	g__Bacteroides	s__	1.00	3
+OTU_1186	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__	s__	1.00	3
+OTU_1185	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Intrasporangiaceae	g__	s__	0.67	3
+OTU_1184	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__Ruminococcus	s__	1.00	3
+OTU_1189	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Pseudomonadales	f__Pseudomonadaceae	g__Pseudomonas	s__stutzeri	0.67	3
+OTU_1188	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Sporolactobacillaceae	g__Sporolactobacillus	s__	1.00	3
+OTU_1741	k__Bacteria	p__Chlorobi	c__OPB56	o__	f__	g__	s__	1.00	3
+OTU_1740	k__Bacteria	p__TM7	c__TM7-1	o__	f__	g__	s__	1.00	3
+OTU_1743	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__SC-I-84	f__	g__	s__	1.00	3
+OTU_1742	Unassigned	1.00	1
+OTU_1745	k__Bacteria	p__Gemmatimonadetes	c__Gemm-1	o__	f__	g__	s__	1.00	3
+OTU_1744	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__Cytophagaceae	g__Hymenobacter	s__	1.00	3
+OTU_868	k__Bacteria	p__Actinobacteria	c__Acidimicrobiia	o__Acidimicrobiales	f__	g__	s__	1.00	1
+OTU_869	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Micromonosporaceae	g__	s__	1.00	3
+OTU_866	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__Cytophagaceae	g__Dyadobacter	s__	1.00	3
+OTU_867	k__Bacteria	p__Bacteroidetes	c__Sphingobacteriia	o__Sphingobacteriales	f__Sphingobacteriaceae	1.00	2
+OTU_864	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Xanthomonadaceae	g__	s__	0.67	3
+OTU_865	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Oxalobacteraceae	g__Cupriavidus	s__gilardii	0.67	3
+OTU_862	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__	1.00	3
+OTU_863	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__GW-34	s__	1.00	3
+OTU_860	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__	g__	s__	0.67	3
+OTU_861	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__Propionibacterium	s__granulosum	0.67	3
+OTU_1536	k__Bacteria	p__Gemmatimonadetes	c__Gemmatimonadetes	o__	f__	g__	s__	1.00	3
+OTU_1537	k__Bacteria	p__[Thermi]	c__Deinococci	o__Deinococcales	f__Deinococcaceae	g__Deinococcus	s__	0.67	3
+OTU_1534	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	g__	s__	0.67	3
+OTU_1535	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Desulfuromonadales	f__Geobacteraceae	g__Geobacter	s__	1.00	3
+OTU_655	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	1.00	3
+OTU_654	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	g__Blautia	s__	0.67	3
+OTU_657	k__Bacteria	p__Acidobacteria	c__Acidobacteria-6	o__iii1-15	f__	g__	s__	1.00	3
+OTU_124	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_123	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	1.00	3
+OTU_1606	Unassigned	1.00	1
+OTU_650	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Williamsiaceae	g__Williamsia	s__	0.67	3
+OTU_1352	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	g__Coprococcus	s__	1.00	3
+OTU_1353	Unassigned	1.00	1
+OTU_1350	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodobacterales	f__Rhodobacteraceae	g__Rubellimicrobium	s__	1.00	3
+OTU_1351	k__Bacteria	p__WS3	c__PRR-12	o__Sediment-1	f__PRR-10	g__	s__	1.00	3
+OTU_1356	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__Nocardioides	s__	1.00	3
+OTU_1357	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodospirillales	f__Rhodospirillaceae	g__	s__	1.00	3
+OTU_1354	k__Bacteria	p__Gemmatimonadetes	c__Gemmatimonadetes	o__Ellin5290	f__	g__	s__	1.00	3
+OTU_1355	Unassigned	1.00	1
+OTU_1358	Unassigned	1.00	1
+OTU_1359	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodobacterales	f__Hyphomonadaceae	g__	s__	0.67	3
+OTU_725	k__Bacteria	p__[Thermi]	c__Deinococci	o__Deinococcales	f__Deinococcaceae	g__Deinococcus	s__aquatilis	0.67	3
+OTU_724	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Beijerinckiaceae	g__	s__	0.67	3
+OTU_1760	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Intrasporangiaceae	g__Janibacter	s__	1.00	3
+OTU_1608	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__	s__	0.67	3
+OTU_1609	k__Bacteria	p__Cyanobacteria	c__Chloroplast	o__Chlorophyta	f__	g__	s__	1.00	3
+OTU_1226	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Methylocystaceae	g__	s__	0.67	3
+OTU_1227	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingomonas	s__	0.67	3
+OTU_1224	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Porphyromonadaceae	g__Porphyromonas	s__	1.00	3
+OTU_1225	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Peptostreptococcaceae	g__	s__	1.00	3
+OTU_1222	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Paenibacillaceae	g__Paenibacillus	s__	1.00	3
+OTU_1223	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__	s__	0.67	3
+OTU_1220	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Bacteroidaceae	g__Bacteroides	s__acidifaciens	1.00	3
+OTU_1221	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Clostridiaceae	g__Clostridium	s__	0.67	3
+OTU_1228	k__Bacteria	p__Proteobacteria	c__Epsilonproteobacteria	o__Campylobacterales	f__Campylobacteraceae	g__Campylobacter	s__	1.00	3
+OTU_1229	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__S24-7	g__	s__	1.00	3
+OTU_1549	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Clostridiaceae	g__Clostridium	s__	0.67	3
+OTU_1420	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__	g__	s__	0.67	3
+OTU_1548	k__Bacteria	p__[Thermi]	c__Deinococci	o__Deinococcales	f__Deinococcaceae	g__Deinococcus	s__	1.00	3
+OTU_1421	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	0.67	3
+OTU_1639	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Clostridiaceae	g__Clostridium	s__	0.67	3
+OTU_152	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__[Weeksellaceae]	g__Wautersiella	s__	1.00	3
+OTU_153	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Macrococcus	s__brunensis	1.00	1
+OTU_150	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__	1.00	3
+OTU_151	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__Propionibacterium	s__acnes	1.00	3
+OTU_18	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__	s__	0.67	3
+OTU_19	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Lactobacillaceae	g__Lactobacillus	s__iners	0.67	3
+OTU_14	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Finegoldia	s__	1.00	3
+OTU_15	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_16	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_17	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Peptoniphilus	s__	1.00	3
+OTU_10	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_11	k__Bacteria	p__Cyanobacteria	c__Chloroplast	o__Streptophyta	f__	g__	s__	1.00	3
+OTU_12	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Neisseriales	f__Neisseriaceae	g__	s__	1.00	1
+OTU_13	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_154	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__[Weeksellaceae]	g__Weeksella	s__	1.00	2
+OTU_155	k__Bacteria	p__Fusobacteria	c__Fusobacteriia	o__Fusobacteriales	f__Leptotrichiaceae	g__Leptotrichia	s__	0.67	3
+OTU_673	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__Nocardioides	s__	0.67	3
+OTU_332	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__	s__	1.00	3
+OTU_671	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Intrasporangiaceae	g__	s__	1.00	3
+OTU_670	k__Bacteria	p__Acidobacteria	c__[Chloracidobacteria]	o__RB41	f__Ellin6075	g__	s__	1.00	3
+OTU_677	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Sinobacteraceae	g__Nevskia	s__	0.67	3
+OTU_676	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__Nannocystaceae	g__Nannocystis	1.00	2
+OTU_675	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodospirillales	f__Acetobacteraceae	g__	s__	1.00	3
+OTU_333	k__Bacteria	p__Bacteroidetes	c__Sphingobacteriia	o__Sphingobacteriales	f__	g__	s__	1.00	3
+OTU_1426	k__Bacteria	p__Actinobacteria	c__Rubrobacteria	o__Rubrobacterales	f__Rubrobacteraceae	g__Rubrobacter	s__	1.00	3
+OTU_1515	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__	g__	s__	1.00	3
+OTU_679	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Alicyclobacillaceae	g__Alicyclobacillus	s__	1.00	3
+OTU_678	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__[Weeksellaceae]	g__Chryseobacterium	s__	1.00	3
+OTU_1510	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__Cytophagaceae	g__Dyadobacter	s__	1.00	3
+OTU_330	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Pseudomonadales	f__Moraxellaceae	g__Acinetobacter	s__	1.00	3
+OTU_1512	k__Bacteria	p__Acidobacteria	c__Acidobacteria-6	o__iii1-15	f__mb2424	g__	s__	1.00	3
+OTU_1513	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__	s__	1.00	3
+OTU_331	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	g__Oribacterium	s__	0.67	3
+OTU_884	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_337	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__flexus	1.00	3
+OTU_886	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Enterobacteriales	f__Enterobacteriaceae	g__	s__	1.00	3
+OTU_1427	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Planococcaceae	g__Sporosarcina	s__	1.00	3
+OTU_887	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_1428	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__S24-7	g__	s__	1.00	3
+OTU_499	k__Bacteria	p__Fusobacteria	c__Fusobacteriia	o__Fusobacteriales	f__Fusobacteriaceae	g__Fusobacterium	s__	1.00	3
+OTU_498	Unassigned	1.00	1
+OTU_497	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Rikenellaceae	g__	s__	1.00	3
+OTU_496	k__Bacteria	p__Chlorobi	c__OPB56	o__	f__	g__	s__	1.00	3
+OTU_495	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Pseudomonadales	f__Pseudomonadaceae	g__Pseudomonas	s__	1.00	3
+OTU_494	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodobacterales	f__Rhodobacteraceae	g__Rubellimicrobium	s__	1.00	3
+OTU_493	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Planococcaceae	g__	s__	1.00	3
+OTU_492	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_491	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__Methylibium	s__	0.67	3
+OTU_490	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Gaiellales	f__Gaiellaceae	g__	s__	1.00	3
+OTU_251	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__	0.67	3
+OTU_250	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__Flavisolibacter	s__	1.00	3
+OTU_253	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Varibaculum	s__	1.00	3
+OTU_252	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Brucellaceae	g__Ochrobactrum	s__	0.67	3
+OTU_255	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	g__Moryella	s__	0.67	3
+OTU_254	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Methylobacteriaceae	0.67	3
+OTU_709	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__MIZ46	f__	g__	s__	1.00	3
+OTU_708	Unassigned	1.00	1
+OTU_259	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_258	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__[Weeksellaceae]	g__Chryseobacterium	s__	1.00	3
+OTU_705	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	g__Agromyces	s__	1.00	3
+OTU_704	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__Ruminococcus	s__	1.00	1
+OTU_703	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	0.67	3
+OTU_702	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__	s__	1.00	3
+OTU_701	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__Myxococcaceae	g__Anaeromyxobacter	s__	1.00	3
+OTU_700	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__	g__	s__	1.00	3
+OTU_1406	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Neisseriales	f__Neisseriaceae	g__	s__	1.00	2
+OTU_1429	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Alicyclobacillaceae	g__Alicyclobacillus	s__	1.00	3
+OTU_1407	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__Segetibacter	s__	1.00	3
+OTU_1404	k__Bacteria	p__Fusobacteria	c__Fusobacteriia	o__Fusobacteriales	f__Leptotrichiaceae	g__Leptotrichia	s__	0.67	3
+OTU_383	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__bovis	0.67	3
+OTU_382	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__Capnocytophaga	s__	0.67	3
+OTU_381	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Xanthomonadaceae	g__	s__	1.00	3
+OTU_380	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__	1.00	3
+OTU_387	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Peptoniphilus	s__	0.67	3
+OTU_386	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	g__Blautia	s__	1.00	3
+OTU_385	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Intrasporangiaceae	g__Phycicoccus	s__	0.67	3
+OTU_384	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Bacteroidaceae	g__Bacteroides	s__eggerthii	1.00	3
+OTU_389	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Oxalobacteraceae	g__	s__	0.67	3
+OTU_388	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_1637	k__Bacteria	p__TM7	c__TM7-1	o__	f__	g__	s__	1.00	3
+OTU_721	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__Selenomonas	s__	1.00	3
+OTU_720	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__Nocardioides	s__	1.00	1
+OTU_723	k__Bacteria	p__Bacteroidetes	c__Sphingobacteriia	o__Sphingobacteriales	f__Sphingobacteriaceae	g__	s__	0.67	3
+OTU_1734	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__	s__	1.00	3
+OTU_1735	k__Bacteria	p__Nitrospirae	c__Nitrospira	o__Nitrospirales	f__Nitrospiraceae	g__Nitrospira	s__	0.67	3
+OTU_819	k__Bacteria	p__Bacteroidetes	c__Sphingobacteriia	o__Sphingobacteriales	f__Sphingobacteriaceae	g__	s__	0.67	3
+OTU_722	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	g__Blautia	s__	0.67	3
+OTU_1730	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_1731	Unassigned	1.00	1
+OTU_1732	k__Bacteria	p__Cyanobacteria	c__Chloroplast	o__Chlorophyta	f__	g__	s__	1.00	3
+OTU_1733	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__	g__	s__	1.00	3
+OTU_813	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__	s__	0.67	3
+OTU_812	k__Bacteria	p__Actinobacteria	c__MB-A2-108	o__0319-7L14	f__	g__	s__	1.00	3
+OTU_811	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	s__sobrinus	0.67	3
+OTU_810	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodobacterales	f__Rhodobacteraceae	g__Paracoccus	s__	0.67	3
+OTU_817	k__Bacteria	p__TM7	c__TM7-1	o__	f__	g__	s__	1.00	3
+OTU_816	k__Bacteria	p__Acidobacteria	c__Acidobacteria-6	o__iii1-15	f__	g__	s__	1.00	3
+OTU_815	k__Bacteria	p__Acidobacteria	c__Acidobacteria-6	o__iii1-15	f__mb2424	g__	s__	1.00	3
+OTU_814	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Kineosporiaceae	g__Kineococcus	s__	1.00	3
+OTU_727	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Porphyromonadaceae	g__Porphyromonas	s__	1.00	1
+OTU_726	k__Bacteria	p__Fusobacteria	c__Fusobacteriia	o__Fusobacteriales	f__Leptotrichiaceae	g__Leptotrichia	s__	1.00	3
+OTU_927	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Mycobacteriaceae	g__Mycobacterium	0.67	3
+OTU_926	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__Friedmanniella	s__	1.00	3
+OTU_925	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Alcaligenaceae	g__	s__	0.67	3
+OTU_924	Unassigned	1.00	1
+OTU_923	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__[Weeksellaceae]	g__Chryseobacterium	s__	0.67	3
+OTU_922	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Hyphomicrobiaceae	g__Rhodoplanes	s__	1.00	3
+OTU_921	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Xanthobacteraceae	g__Xanthobacter	s__	0.67	3
+OTU_920	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Micrococcaceae	g__Arthrobacter	s__	0.67	3
+OTU_1640	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__	g__	s__	1.00	2
+OTU_1641	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Sinobacteraceae	g__	s__	1.00	3
+OTU_1642	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Anaerococcus	s__	1.00	3
+OTU_1643	k__Bacteria	p__Planctomycetes	c__Planctomycetia	o__Pirellulales	f__Pirellulaceae	g__	s__	1.00	3
+OTU_1644	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	1.00	2
+OTU_1645	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__S24-7	g__	s__	1.00	3
+OTU_929	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__	1.00	1
+OTU_928	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__	s__	1.00	3
+OTU_1709	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__	1.00	2
+OTU_1345	Unassigned	1.00	1
+OTU_1344	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__S24-7	g__	s__	1.00	3
+OTU_1347	k__Bacteria	p__Spirochaetes	c__Spirochaetes	o__Spirochaetales	f__Spirochaetaceae	g__Treponema	s__	1.00	3
+OTU_1346	Unassigned	1.00	1
+OTU_1341	Unassigned	1.00	1
+OTU_1340	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__	s__	0.67	3
+OTU_1343	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__	g__	s__	1.00	3
+OTU_1342	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__Propionicimonas	s__	1.00	3
+OTU_1349	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Gaiellales	f__Gaiellaceae	g__	s__	1.00	3
+OTU_1348	k__Bacteria	p__Cyanobacteria	c__Chloroplast	o__Stramenopiles	f__	g__	s__	1.00	3
+OTU_1708	k__Bacteria	p__Acidobacteria	c__Acidobacteria-6	o__iii1-15	f__	g__	s__	1.00	3
+OTU_1539	k__Bacteria	p__Bacteroidetes	c__Sphingobacteriia	o__Sphingobacteriales	f__	g__	s__	1.00	3
+OTU_1556	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingomonas	s__	0.67	3
+OTU_1239	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Staphylococcus	s__	1.00	3
+OTU_1238	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__	s__	1.00	3
+OTU_1231	k__Bacteria	p__Cyanobacteria	c__Chloroplast	o__Chlorophyta	f__	g__	s__	1.00	3
+OTU_1230	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__S24-7	g__	s__	1.00	3
+OTU_1233	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__	g__	s__	1.00	3
+OTU_1232	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodospirillales	f__Acetobacteraceae	g__	s__	1.00	3
+OTU_1235	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	g__Pseudoclavibacter	0.67	3
+OTU_1234	Unassigned	1.00	1
+OTU_1237	k__Bacteria	p__Cyanobacteria	c__Chloroplast	o__Streptophyta	f__	g__	s__	1.00	3
+OTU_1236	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Aurantimonadaceae	0.67	3
+OTU_1558	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Staphylococcus	s__aureus	0.67	3
+OTU_1559	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardiopsaceae	g__Nocardiopsis	s__exhalans	0.67	3
+OTU_1707	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Intrasporangiaceae	g__	s__	0.67	3
+OTU_1727	Unassigned	1.00	1
+OTU_1706	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__Flavobacterium	s__	1.00	3
+OTU_835	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__	g__	s__	0.67	3
+OTU_834	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Clostridiaceae	g__Clostridium	s__	1.00	3
+OTU_837	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__melaninogenica	1.00	3
+OTU_836	Unassigned	1.00	1
+OTU_1701	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__Myxococcaceae	g__Anaeromyxobacter	s__	1.00	3
+OTU_831	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Aerococcaceae	g__Facklamia	s__	1.00	1
+OTU_830	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	1.00	3
+OTU_1628	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__[Weeksellaceae]	g__Chryseobacterium	s__	1.00	3
+OTU_833	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Intrasporangiaceae	g__Phycicoccus	s__	1.00	3
+OTU_832	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__Cytophagaceae	g__Hymenobacter	s__	1.00	3
+OTU_624	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__Capnocytophaga	s__ochracea	0.67	3
+OTU_1700	k__Bacteria	p__Planctomycetes	c__Planctomycetia	o__Gemmatales	f__Isosphaeraceae	g__	s__	1.00	3
+OTU_1629	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Paenibacillaceae	g__Paenibacillus	s__	0.67	3
+OTU_1716	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__Solirubrobacteraceae	g__	s__	1.00	3
+OTU_1717	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__[Paraprevotellaceae]	g__[Prevotella]	s__	1.00	1
+OTU_1714	k__Bacteria	p__Planctomycetes	c__Planctomycetia	o__Gemmatales	f__Isosphaeraceae	g__	s__	1.00	3
+OTU_1715	k__Bacteria	p__Gemmatimonadetes	c__Gemm-5	o__	f__	g__	s__	1.00	3
+OTU_660	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	1.00	3
+OTU_661	k__Bacteria	p__Verrucomicrobia	c__[Pedosphaerae]	o__[Pedosphaerales]	f__Ellin517	g__	s__	1.00	3
+OTU_662	k__Bacteria	p__[Thermi]	c__Deinococci	o__Deinococcales	f__Deinococcaceae	g__Deinococcus	s__	1.00	3
+OTU_663	k__Bacteria	p__Acidobacteria	c__Acidobacteria-6	o__iii1-15	f__	g__	s__	1.00	3
+OTU_664	k__Bacteria	p__Acidobacteria	c__iii1-8	o__DS-18	f__	g__	s__	1.00	3
+OTU_665	k__Bacteria	p__Acidobacteria	c__Acidobacteria-6	o__iii1-15	f__	g__	s__	1.00	3
+OTU_666	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Planococcaceae	g__Sporosarcina	s__	1.00	3
+OTU_667	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Bdellovibrionales	f__Bacteriovoracaceae	g__	s__	1.00	3
+OTU_668	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Gaiellales	f__Gaiellaceae	g__	s__	1.00	3
+OTU_669	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Intrasporangiaceae	g__Terracoccus	s__	0.67	3
+OTU_1505	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Planococcaceae	g__	s__	1.00	3
+OTU_1504	k__Bacteria	p__TM7	c__SC3	o__	f__	g__	s__	1.00	3
+OTU_1503	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingomonas	s__	1.00	3
+OTU_1502	k__Bacteria	p__Acidobacteria	c__[Chloracidobacteria]	o__RB41	f__	g__	s__	1.00	3
+OTU_1501	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__	g__	s__	0.67	3
+OTU_1500	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__	f__	g__	s__	1.00	3
+OTU_1726	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__Flavobacterium	s__	1.00	3
+OTU_1495	k__Bacteria	p__Bacteroidetes	c__Sphingobacteriia	o__Sphingobacteriales	f__Sphingobacteriaceae	g__Sphingobacterium	s__faecium	1.00	3
+OTU_488	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__	g__	s__	1.00	3
+OTU_489	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Gaiellales	f__Gaiellaceae	g__	s__	1.00	3
+OTU_484	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Mogibacteriaceae]	g__	s__	1.00	3
+OTU_485	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Peptococcaceae	g__Peptococcus	s__	1.00	2
+OTU_486	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__	s__	0.67	3
+OTU_487	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__Aeromicrobium	s__	1.00	3
+OTU_480	k__Bacteria	p__Verrucomicrobia	c__[Spartobacteria]	o__[Chthoniobacterales]	f__[Chthoniobacteraceae]	g__DA101	s__	1.00	3
+OTU_481	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__melaninogenica	0.67	3
+OTU_482	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_483	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Micrococcaceae	g__Kocuria	s__	1.00	3
+OTU_1433	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Rhodocyclales	f__Rhodocyclaceae	0.67	3
+OTU_1432	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Intrasporangiaceae	1.00	3
+OTU_1431	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__ginsengihumi	1.00	3
+OTU_1430	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodospirillales	f__Acetobacteraceae	g__	s__	1.00	3
+OTU_718	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Peptoniphilus	s__	1.00	3
+OTU_719	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Gaiellales	f__Gaiellaceae	g__	s__	1.00	3
+OTU_248	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	1
+OTU_249	k__Bacteria	p__Actinobacteria	c__Coriobacteriia	o__Coriobacteriales	f__Coriobacteriaceae	g__	s__	1.00	1
+OTU_246	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__	1.00	3
+OTU_247	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_244	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__ph2	s__	1.00	3
+OTU_245	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__	0.67	3
+OTU_242	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Mogibacteriaceae]	g__	s__	1.00	2
+OTU_243	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__Selenomonas	s__	0.67	3
+OTU_240	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	1.00	3
+OTU_241	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Bacteroidaceae	g__Bacteroides	s__fragilis	1.00	3
+OTU_390	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_391	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Alicyclobacillaceae	g__Alicyclobacillus	s__	1.00	3
+OTU_392	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__Myxococcaceae	g__Anaeromyxobacter	s__	1.00	3
+OTU_393	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Peptoniphilus	s__	1.00	1
+OTU_394	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__[Weeksellaceae]	g__Wautersiella	s__	1.00	3
+OTU_395	k__Bacteria	p__Actinobacteria	c__Acidimicrobiia	o__Acidimicrobiales	f__	g__	s__	1.00	3
+OTU_396	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Parvimonas	s__	1.00	3
+OTU_397	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Intrasporangiaceae	0.67	3
+OTU_398	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Planococcaceae	g__Rummeliibacillus	s__	0.67	3
+OTU_399	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Intrasporangiaceae	g__Phycicoccus	s__	0.67	3
+OTU_808	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__	g__	s__	0.67	3
+OTU_809	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	1.00	3
+OTU_1725	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Gaiellales	f__Gaiellaceae	g__	s__	1.00	3
+OTU_1724	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__	g__	s__	1.00	3
+OTU_1723	k__Bacteria	p__Fusobacteria	c__Fusobacteriia	o__Fusobacteriales	f__Leptotrichiaceae	g__Leptotrichia	s__	1.00	3
+OTU_1722	k__Bacteria	p__Gemmatimonadetes	c__Gemmatimonadetes	o__	f__	g__	s__	0.67	3
+OTU_1721	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__SC-I-84	f__	g__	s__	1.00	3
+OTU_1720	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__IS-44	f__	g__	s__	0.67	3
+OTU_800	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__[Weeksellaceae]	g__Wautersiella	s__	1.00	3
+OTU_801	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Sanguibacteraceae	g__Sanguibacter	s__	0.67	3
+OTU_802	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__	g__	s__	1.00	3
+OTU_803	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__marisflavi	0.67	3
+OTU_804	k__Bacteria	p__Acidobacteria	c__[Chloracidobacteria]	o__RB41	f__Ellin6075	g__	s__	1.00	3
+OTU_805	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Gaiellales	f__	g__	s__	1.00	3
+OTU_806	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__	1.00	3
+OTU_807	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__	g__	s__	1.00	3
+OTU_934	k__Bacteria	p__Acidobacteria	c__Acidobacteria-6	o__iii1-15	f__	g__	s__	1.00	3
+OTU_935	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodobacterales	f__Rhodobacteraceae	g__Paracoccus	s__	0.67	3
+OTU_936	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__	g__	s__	1.00	3
+OTU_937	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__Chitinophaga	s__	0.67	3
+OTU_930	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Staphylococcus	s__haemolyticus	0.67	3
+OTU_931	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	1.00	3
+OTU_932	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__[Paraprevotellaceae]	g__[Prevotella]	s__	1.00	3
+OTU_933	k__Bacteria	p__Cyanobacteria	c__Oscillatoriophycideae	o__Chroococcales	f__Xenococcaceae	g__	s__	0.67	3
+OTU_1653	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_1652	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__	s__	0.67	3
+OTU_1651	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__	s__	1.00	3
+OTU_1650	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__S24-7	g__	s__	1.00	3
+OTU_938	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Pasteurellales	f__Pasteurellaceae	g__Haemophilus	s__	0.67	3
+OTU_939	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__Hydrogenophaga	s__	0.67	3
+OTU_1655	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	s__	0.67	3
+OTU_1654	Unassigned	1.00	1
+OTU_1718	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__	g__	s__	0.67	3
+OTU_1719	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Burkholderia	s__	0.67	3
+OTU_672	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	0.67	3
+OTU_1457	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Jeotgalicoccus	s__	1.00	1
+OTU_1456	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__Cytophagaceae	g__Hymenobacter	s__	1.00	3
+OTU_1248	Unassigned	1.00	1
+OTU_1249	k__Bacteria	p__Chlorobi	c__OPB56	o__	f__	g__	s__	1.00	3
+OTU_1244	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__S24-7	g__	s__	1.00	3
+OTU_1245	Unassigned	1.00	1
+OTU_1246	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	0.67	3
+OTU_1247	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__	f__	g__	s__	1.00	2
+OTU_1240	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Paenibacillaceae	g__	s__	0.67	3
+OTU_1241	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Staphylococcus	s__epidermidis	1.00	1
+OTU_1242	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Micrococcaceae	g__Microbispora	s__rosea	0.67	3
+OTU_1243	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Pseudomonadales	f__Pseudomonadaceae	g__Pseudomonas	s__	1.00	3
+OTU_1088	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Syntrophobacterales	f__Syntrophobacteraceae	g__	s__	1.00	3
+OTU_1089	Unassigned	1.00	1
+OTU_1082	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Staphylococcus	s__epidermidis	1.00	3
+OTU_1083	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodobacterales	f__Rhodobacteraceae	g__Rhodobacter	s__	0.67	3
+OTU_1080	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Dermabacteraceae	g__	s__	1.00	3
+OTU_1081	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Xanthomonadaceae	0.67	3
+OTU_1086	k__Bacteria	p__Cyanobacteria	c__Chloroplast	o__Stramenopiles	f__	g__	s__	1.00	3
+OTU_1087	k__Bacteria	p__Fusobacteria	c__Fusobacteriia	o__Fusobacteriales	f__Fusobacteriaceae	g__Fusobacterium	s__	1.00	3
+OTU_1084	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Beijerinckiaceae	g__	s__	0.67	3
+OTU_1085	k__Bacteria	p__Acidobacteria	c__Acidobacteria-6	o__iii1-15	f__	g__	s__	1.00	3
+OTU_1514	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Bdellovibrionales	f__Bdellovibrionaceae	g__Bdellovibrio	s__	1.00	3
+OTU_1516	Unassigned	1.00	1
+OTU_1517	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Staphylococcus	0.67	3
+OTU_1459	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__	s__	0.67	3
+OTU_1458	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__	f__	g__	s__	1.00	2
+OTU_1668	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__	g__	s__	1.00	3
+OTU_1669	Unassigned	1.00	1
+OTU_1666	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Syntrophobacterales	f__Syntrophobacteraceae	g__	s__	1.00	3
+OTU_1398	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Rikenellaceae	g__	s__	1.00	3
+OTU_1399	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	1.00	3
+OTU_1396	k__Bacteria	p__[Thermi]	c__Deinococci	o__Deinococcales	f__Deinococcaceae	g__Deinococcus	s__	1.00	1
+OTU_1397	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__Propionibacterium	s__acnes	1.00	3
+OTU_1394	k__Bacteria	p__Firmicutes	c__Erysipelotrichi	o__Erysipelotrichales	f__Erysipelotrichaceae	g__Bulleidia	s__	0.67	3
+OTU_1395	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__	s__	1.00	3
+OTU_1392	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__	s__	0.67	3
+OTU_1393	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Sporichthyaceae	g__	s__	1.00	3
+OTU_1390	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Bacteroidaceae	g__Bacteroides	s__caccae	1.00	3
+OTU_1391	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__Friedmanniella	s__	1.00	3
+OTU_1663	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Clostridiaceae	g__Clostridium	s__	1.00	3
+OTU_1532	k__Bacteria	p__Acidobacteria	c__Acidobacteria-6	o__iii1-15	f__RB40	g__	s__	1.00	3
+OTU_1533	k__Bacteria	p__Planctomycetes	c__Planctomycetia	o__Gemmatales	f__Isosphaeraceae	g__	s__	1.00	3
+OTU_1530	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	g__Cryocola	s__	1.00	3
+OTU_1531	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Xanthomonadaceae	1.00	3
+OTU_659	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	s__	1.00	3
+OTU_658	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__	s__	1.00	3
+OTU_129	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Micrococcaceae	g__	s__	1.00	3
+OTU_128	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Peptoniphilus	s__	1.00	3
+OTU_127	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Gordoniaceae	g__Gordonia	s__	1.00	3
+OTU_126	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	0.67	3
+OTU_125	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_656	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Xanthomonadaceae	g__	s__	0.67	3
+OTU_651	k__Bacteria	p__Verrucomicrobia	c__[Pedosphaerae]	o__[Pedosphaerales]	f__Ellin515	g__	s__	1.00	3
+OTU_122	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__Delftia	s__	1.00	3
+OTU_653	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__	g__	s__	1.00	3
+OTU_120	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Oxalobacteraceae	g__Cupriavidus	s__	0.67	3
+OTU_170	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__Dialister	s__	1.00	3
+OTU_171	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_172	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__	1.00	3
+OTU_173	k__Bacteria	p__Actinobacteria	c__Coriobacteriia	o__Coriobacteriales	f__Coriobacteriaceae	g__Atopobium	s__	1.00	3
+OTU_87	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Jeotgalicoccus	s__	1.00	3
+OTU_157	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Aurantimonadaceae	g__Aurantimonas	0.67	3
+OTU_86	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Aerococcaceae	g__Alloiococcus	s__otitis	1.00	3
+OTU_85	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Neisseriales	f__Neisseriaceae	g__Kingella	s__	1.00	3
+OTU_177	k__Bacteria	p__[Thermi]	c__Deinococci	o__Deinococcales	f__Deinococcaceae	g__Deinococcus	s__	1.00	3
+OTU_729	Unassigned	1.00	1
+OTU_728	k__Bacteria	p__GN02	c__BD1-5	o__	f__	g__	s__	1.00	3
+OTU_239	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Micrococcaceae	g__	s__	0.67	3
+OTU_238	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_1402	k__Bacteria	p__Actinobacteria	c__Coriobacteriia	o__Coriobacteriales	f__Coriobacteriaceae	g__Collinsella	s__aerofaciens	1.00	3
+OTU_1403	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__Variovorax	s__paradoxus	1.00	3
+OTU_1400	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__S24-7	g__	s__	1.00	3
+OTU_1401	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Thermomonosporaceae	g__Actinomadura	0.67	3
+OTU_233	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_232	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Micromonosporaceae	g__Actinoplanes	s__	0.67	3
+OTU_231	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Pseudomonadales	f__Pseudomonadaceae	g__	s__	0.67	3
+OTU_230	k__Bacteria	p__Proteobacteria	c__Epsilonproteobacteria	o__Campylobacterales	f__Campylobacteraceae	g__Campylobacter	s__	1.00	3
+OTU_237	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__Sediminibacterium	s__	1.00	3
+OTU_236	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__	g__	s__	1.00	3
+OTU_235	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Pseudomonadales	f__Moraxellaceae	g__Acinetobacter	s__	1.00	3
+OTU_234	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Bacteroidaceae	g__Bacteroides	s__	1.00	3
+OTU_347	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	0.67	3
+OTU_346	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	0.67	3
+OTU_345	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Aerococcaceae	g__Facklamia	s__	1.00	3
+OTU_344	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Novosphingobium	s__	0.67	3
+OTU_343	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__	1.00	3
+OTU_342	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	0.67	3
+OTU_341	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Clostridiaceae	g__Clostridium	s__	1.00	1
+OTU_340	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__	g__	s__	1.00	3
+OTU_1712	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Pseudonocardiaceae	g__Pseudonocardia	s__	1.00	3
+OTU_1713	Unassigned	1.00	1
+OTU_1710	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__Conexibacteraceae	g__	s__	0.67	3
+OTU_1711	k__Bacteria	p__Gemmatimonadetes	c__Gemmatimonadetes	o__Gemmatimonadales	f__	g__	s__	0.67	3
+OTU_839	k__Bacteria	p__Bacteroidetes	c__Sphingobacteriia	o__Sphingobacteriales	f__Sphingobacteriaceae	g__Sphingobacterium	s__multivorum	1.00	3
+OTU_838	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Xanthomonadaceae	g__Lysobacter	s__	1.00	3
+OTU_349	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_348	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__nigrescens	1.00	3
+OTU_901	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__Flavisolibacter	s__	1.00	3
+OTU_900	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Oxalobacteraceae	g__	s__	0.67	3
+OTU_903	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__Propionibacterium	s__acnes	1.00	3
+OTU_902	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__Cytophagaceae	g__Adhaeribacter	s__	1.00	3
+OTU_905	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__	g__	s__	1.00	3
+OTU_904	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__	1.00	3
+OTU_907	k__Bacteria	p__Bacteroidetes	c__Sphingobacteriia	o__Sphingobacteriales	f__Sphingobacteriaceae	g__Sphingobacterium	s__	0.67	3
+OTU_906	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__	s__	1.00	3
+OTU_909	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	1.00	3
+OTU_908	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Bacteroidaceae	g__Bacteroides	s__ovatus	1.00	3
+OTU_1664	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__	s__	1.00	3
+OTU_1665	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__Flavisolibacter	s__	1.00	3
+OTU_1662	k__Bacteria	p__Fusobacteria	c__Fusobacteriia	o__Fusobacteriales	f__Fusobacteriaceae	g__Fusobacterium	s__	1.00	3
+OTU_1422	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Dietziaceae	g__Dietzia	s__	0.67	3
+OTU_1660	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__Propionibacterium	s__acnes	1.00	3
+OTU_1661	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__	1.00	3
+OTU_1423	k__Bacteria	p__Bacteroidetes	c__Sphingobacteriia	o__Sphingobacteriales	f__Sphingobacteriaceae	g__Sphingobacterium	s__	0.67	3
+OTU_943	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	1.00	3
+OTU_1424	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Rikenellaceae	g__	s__	1.00	3
+OTU_1425	k__Bacteria	p__Actinobacteria	c__Coriobacteriia	o__Coriobacteriales	f__Coriobacteriaceae	1.00	3
+OTU_257	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Intrasporangiaceae	0.67	3
+OTU_256	k__Bacteria	p__Bacteroidetes	c__Sphingobacteriia	o__Sphingobacteriales	f__Sphingobacteriaceae	g__Pedobacter	s__	1.00	3
+OTU_707	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__[Weeksellaceae]	g__	s__	1.00	3
+OTU_706	Unassigned	1.00	1
+OTU_61	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_1259	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Paenibacillaceae	g__Paenibacillus	s__	1.00	3
+OTU_1258	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__Methylibium	s__	0.67	3
+OTU_1257	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__	g__	s__	1.00	3
+OTU_1256	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Staphylococcus	s__epidermidis	1.00	3
+OTU_1255	k__Bacteria	p__Planctomycetes	c__Planctomycetia	o__Gemmatales	f__Gemmataceae	g__	s__	1.00	3
+OTU_1254	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__Flavisolibacter	s__	1.00	3
+OTU_1253	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Paenibacillaceae	g__	s__	0.67	3
+OTU_1252	k__Bacteria	p__Firmicutes	c__Erysipelotrichi	o__Erysipelotrichales	f__Erysipelotrichaceae	g__Coprobacillus	s__	1.00	3
+OTU_1251	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Helcococcus	s__	1.00	3
+OTU_1250	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__Cytophagaceae	g__Hymenobacter	s__	1.00	3
+OTU_1099	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Legionellales	f__Coxiellaceae	g__Rickettsiella	s__	0.67	3
+OTU_1098	k__Bacteria	p__Acidobacteria	c__Acidobacteria-6	o__iii1-15	f__	g__	s__	1.00	3
+OTU_1095	k__Bacteria	p__Cyanobacteria	c__Chloroplast	o__Streptophyta	f__	g__	s__	1.00	3
+OTU_1094	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__	g__	s__	1.00	3
+OTU_1097	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__	s__	0.67	3
+OTU_1096	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__	g__	s__	0.67	3
+OTU_1091	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__Variovorax	s__paradoxus	0.67	3
+OTU_1090	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__	s__	1.00	3
+OTU_1093	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Peptoniphilus	s__	1.00	3
+OTU_1092	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	1.00	3
+OTU_1381	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Clostridiaceae	g__Clostridium	0.67	3
+OTU_1380	k__Bacteria	p__Acidobacteria	c__Sva0725	o__Sva0725	f__	g__	s__	1.00	3
+OTU_1383	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__Cytophagaceae	g__Spirosoma	s__	1.00	3
+OTU_1382	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	g__Leucobacter	s__	1.00	3
+OTU_1385	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__Capnocytophaga	s__ochracea	1.00	3
+OTU_1384	Unassigned	1.00	1
+OTU_1387	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__Comamonas	s__	1.00	3
+OTU_1386	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__Flavobacterium	s__	0.67	3
+OTU_1389	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__	1.00	1
+OTU_1388	k__Bacteria	p__[Thermi]	c__Deinococci	o__Deinococcales	f__Deinococcaceae	g__Deinococcus	s__	0.67	3
+OTU_145	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Erythrobacteraceae	g__	s__	1.00	3
+OTU_1525	k__Bacteria	p__Acidobacteria	c__Acidobacteria-6	o__iii1-15	f__mb2424	g__	s__	1.00	3
+OTU_1524	k__Bacteria	p__Planctomycetes	c__Planctomycetia	o__Gemmatales	f__Isosphaeraceae	g__	s__	1.00	1
+OTU_648	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	0.67	3
+OTU_649	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Aerococcaceae	g__Facklamia	s__	1.00	3
+OTU_138	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Aerococcaceae	g__Aerococcus	s__	0.67	3
+OTU_139	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__1-68	s__	1.00	3
+OTU_1523	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	1.00	3
+OTU_1522	Unassigned	1.00	1
+OTU_642	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Legionellales	f__Legionellaceae	g__Legionella	s__	1.00	3
+OTU_643	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_136	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Pseudomonadales	f__Moraxellaceae	g__Enhydrobacter	s__	0.67	3
+OTU_137	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Leuconostocaceae	g__Leuconostoc	s__mesenteroides	0.67	3
+OTU_646	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__	g__	s__	1.00	3
+OTU_647	k__Bacteria	p__Acidobacteria	c__Acidobacteria-6	o__iii1-15	f__	g__	s__	1.00	3
+OTU_644	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__SC-I-84	f__	g__	s__	1.00	3
+OTU_645	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	s__	1.00	3
+OTU_147	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingobium	s__	0.67	3
+OTU_404	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__	s__	1.00	3
+OTU_405	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__Friedmanniella	s__	1.00	3
+OTU_406	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Staphylococcus	s__sciuri	0.67	3
+OTU_407	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Salinicoccus	s__	1.00	3
+OTU_400	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__	s__	0.67	3
+OTU_401	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__Flavobacterium	s__	0.67	3
+OTU_736	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_737	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Pseudomonadales	f__Moraxellaceae	g__Acinetobacter	s__	1.00	3
+OTU_734	k__Bacteria	p__Acidobacteria	c__Acidobacteria-6	o__iii1-15	f__	g__	s__	1.00	3
+OTU_735	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Aerococcaceae	g__	s__	1.00	3
+OTU_732	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Mycobacteriaceae	g__Mycobacterium	s__	1.00	3
+OTU_733	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Oxalobacteraceae	0.67	3
+OTU_730	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__[Weeksellaceae]	g__Chryseobacterium	s__	1.00	3
+OTU_731	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Jeotgalicoccus	s__	1.00	3
+OTU_1411	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	g__	s__	0.67	3
+OTU_1410	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	0.67	3
+OTU_1413	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__	g__	s__	0.67	3
+OTU_403	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__Flavisolibacter	s__	0.67	3
+OTU_1415	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__	g__	s__	0.67	3
+OTU_1414	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	s__	0.67	3
+OTU_738	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	1.00	3
+OTU_739	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	1.00	3
+OTU_228	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Micrococcaceae	g__Micrococcus	s__	0.67	3
+OTU_229	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_220	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__Azohydromonas	s__	0.67	3
+OTU_221	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Parvimonas	s__	1.00	3
+OTU_222	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Pseudomonadales	f__Moraxellaceae	g__Acinetobacter	s__	0.67	3
+OTU_223	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__nanceiensis	1.00	3
+OTU_224	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Porphyromonadaceae	g__Porphyromonas	s__	1.00	3
+OTU_225	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Listeriaceae	g__Brochothrix	s__	0.67	3
+OTU_226	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__Veillonella	s__dispar	1.00	3
+OTU_227	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__	s__	1.00	3
+OTU_1636	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__	g__	s__	0.67	3
+OTU_1631	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__Nocardioides	s__	0.67	3
+OTU_1630	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Streptomycetaceae	g__Streptomyces	s__	1.00	3
+OTU_143	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_1736	k__Bacteria	p__Firmicutes	c__Erysipelotrichi	o__Erysipelotrichales	f__Erysipelotrichaceae	g__cc_115	s__	1.00	3
+OTU_354	k__Bacteria	p__Deferribacteres	c__Deferribacteres	o__Deferribacterales	f__Deferribacteraceae	g__Mucispirillum	s__schaedleri	1.00	3
+OTU_355	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Planococcaceae	g__Lysinibacillus	s__boronitolerans	1.00	3
+OTU_820	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodospirillales	f__Rhodospirillaceae	g__Magnetospirillum	s__	1.00	3
+OTU_357	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_350	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Neisseriales	f__Neisseriaceae	g__	s__	1.00	2
+OTU_351	k__Bacteria	p__[Thermi]	c__Deinococci	o__Deinococcales	f__Deinococcaceae	g__Deinococcus	s__	1.00	3
+OTU_352	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__muralis	1.00	3
+OTU_353	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__	1.00	3
+OTU_1705	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__Flavisolibacter	s__	1.00	3
+OTU_1704	k__Bacteria	p__Cyanobacteria	c__Synechococcophycideae	o__Pseudanabaenales	f__Pseudanabaenaceae	g__Leptolyngbya	s__	1.00	3
+OTU_828	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__Nocardioides	s__	1.00	3
+OTU_829	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Kineosporiaceae	g__	s__	0.67	3
+OTU_358	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Oxalobacteraceae	g__	s__	1.00	3
+OTU_359	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__	g__	s__	0.67	3
+OTU_1703	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodospirillales	f__Rhodospirillaceae	g__Azospirillum	s__	0.67	3
+OTU_1702	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Micrococcales	f__	g__	s__	1.00	3
+OTU_142	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_1738	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__	s__	1.00	3
+OTU_1739	k__Bacteria	p__Bacteroidetes	c__Sphingobacteriia	o__Sphingobacteriales	f__Sphingobacteriaceae	g__	s__	0.67	3
+OTU_1671	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__	1.00	3
+OTU_1670	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__	s__	0.67	3
+OTU_1673	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__	g__	s__	1.00	3
+OTU_1672	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	1.00	3
+OTU_1675	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__Cytophagaceae	g__Hymenobacter	s__	1.00	3
+OTU_1674	k__Bacteria	p__Chlorobi	c__Ignavibacteria	o__Ignavibacteriales	f__Ignavibacteriaceae	g__	s__	1.00	3
+OTU_918	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__Selenomonas	s__	1.00	3
+OTU_919	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	g__	s__	1.00	1
+OTU_916	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__	s__	1.00	3
+OTU_917	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Staphylococcus	s__	1.00	3
+OTU_914	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Cardiobacteriales	f__Cardiobacteriaceae	g__Cardiobacterium	s__	1.00	3
+OTU_915	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Alcaligenaceae	g__Achromobacter	s__	1.00	3
+OTU_912	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__	0.67	3
+OTU_913	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Neisseriales	f__Neisseriaceae	g__	s__	0.67	3
+OTU_910	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Helcococcus	s__	1.00	3
+OTU_911	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Planococcaceae	g__Sporosarcina	s__	1.00	3
+OTU_74	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Intrasporangiaceae	g__Janibacter	s__	1.00	3
+OTU_1262	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__Rubrivivax	s__	0.67	3
+OTU_1263	k__Bacteria	p__Gemmatimonadetes	c__Gemmatimonadetes	o__Gemmatimonadales	f__	g__	s__	1.00	3
+OTU_1260	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_1261	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Oxalobacteraceae	g__	s__	1.00	3
+OTU_1266	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodospirillales	f__Rhodospirillaceae	g__	s__	1.00	3
+OTU_1267	k__Bacteria	p__Chloroflexi	c__Thermomicrobia	o__JG30-KF-CM45	f__	g__	s__	1.00	3
+OTU_1264	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__	s__	1.00	3
+OTU_1265	k__Bacteria	p__[Thermi]	c__Deinococci	o__Deinococcales	f__Deinococcaceae	g__Deinococcus	s__	1.00	3
+OTU_1268	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Rhizobiaceae	g__Agrobacterium	s__	1.00	3
+OTU_1269	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__Methylibium	s__	0.67	3
+OTU_1060	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Alcaligenaceae	g__Sutterella	s__	1.00	3
+OTU_1061	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingomonas	s__	0.67	3
+OTU_1062	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Paenibacillaceae	g__Paenibacillus	s__	1.00	3
+OTU_1063	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	0.67	3
+OTU_1064	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__	g__	s__	1.00	3
+OTU_1065	k__Bacteria	p__Actinobacteria	c__Coriobacteriia	o__Coriobacteriales	f__Coriobacteriaceae	g__Adlercreutzia	s__	1.00	3
+OTU_1066	Unassigned	1.00	1
+OTU_1067	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Xanthomonadaceae	g__	s__	1.00	3
+OTU_1068	k__Bacteria	p__Actinobacteria	c__Coriobacteriia	o__Coriobacteriales	f__Coriobacteriaceae	g__	s__	1.00	3
+OTU_1069	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Macrococcus	s__caseolyticus	0.67	3
+OTU_750	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Neisseriales	f__Neisseriaceae	g__	s__	0.67	3
+OTU_751	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Neisseriales	f__Neisseriaceae	g__Eikenella	s__	1.00	3
+OTU_752	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Paenibacillaceae	g__Paenibacillus	s__	1.00	3
+OTU_753	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Pseudonocardiaceae	g__Pseudonocardia	s__	1.00	3
+OTU_754	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__Cytophagaceae	g__Hymenobacter	s__	1.00	3
+OTU_755	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodobacterales	f__Rhodobacteraceae	g__Rubellimicrobium	s__	1.00	3
+OTU_756	Unassigned	1.00	1
+OTU_757	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__	s__	0.67	3
+OTU_1288	k__Bacteria	p__Cyanobacteria	c__Synechococcophycideae	o__Pseudanabaenales	f__Pseudanabaenaceae	g__Leptolyngbya	s__	1.00	3
+OTU_1289	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Bdellovibrionales	f__Bdellovibrionaceae	g__Bdellovibrio	s__	1.00	3
+OTU_1476	k__Bacteria	p__Proteobacteria	c__Epsilonproteobacteria	o__Campylobacterales	f__Campylobacteraceae	g__Campylobacter	s__	1.00	3
+OTU_1280	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__	f__	g__	s__	0.67	3
+OTU_1281	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__Cyclobacteriaceae	g__	s__	0.67	3
+OTU_121	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_1283	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__Ruminococcus	s__	0.67	3
+OTU_1284	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Nitrosomonadales	f__Nitrosomonadaceae	g__	s__	0.67	3
+OTU_1285	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodospirillales	f__Acetobacteraceae	g__	s__	1.00	3
+OTU_1286	k__Bacteria	p__Nitrospirae	c__Nitrospira	o__Nitrospirales	f__0319-6A21	g__	s__	1.00	3
+OTU_1287	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Planococcaceae	g__	s__	0.67	3
+OTU_1648	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Planococcaceae	g__	s__	0.67	3
+OTU_1474	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__Methylibium	s__	0.67	3
+OTU_1649	k__Bacteria	p__Acidobacteria	c__Acidobacteria-6	o__iii1-15	f__	g__	s__	1.00	3
+OTU_1607	k__Bacteria	p__Cyanobacteria	1.00	3
+OTU_1576	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_1577	Unassigned	1.00	1
+OTU_109	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__Propionibacterium	s__acnes	0.67	3
+OTU_108	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__	1.00	3
+OTU_101	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Staphylococcus	s__aureus	1.00	3
+OTU_100	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Aerococcaceae	g__Alloiococcus	s__	1.00	3
+OTU_103	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Porphyromonadaceae	g__Porphyromonas	s__	0.67	3
+OTU_102	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Methylobacteriaceae	g__Methylobacterium	s__komagatae	0.67	3
+OTU_105	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__WAL_1855D	s__	1.00	3
+OTU_104	k__Bacteria	p__Fusobacteria	c__Fusobacteriia	o__Fusobacteriales	f__Leptotrichiaceae	g__Leptotrichia	s__	1.00	3
+OTU_107	k__Bacteria	p__Actinobacteria	c__Coriobacteriia	o__Coriobacteriales	f__Coriobacteriaceae	g__	s__	0.67	3
+OTU_106	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_1646	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__	s__	1.00	3
+OTU_1647	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Kineosporiaceae	g__	s__	1.00	3
+OTU_1578	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Methylophilales	f__Methylophilaceae	g__Methylobacillus	s__	0.67	3
+OTU_1579	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Kineosporiaceae	0.67	3
+OTU_743	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__	g__	s__	1.00	3
+OTU_742	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__	s__	0.67	3
+OTU_741	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardiaceae	g__Rhodococcus	s__	0.67	3
+OTU_740	k__Bacteria	p__Verrucomicrobia	c__Opitutae	o__Opitutales	f__Opitutaceae	g__Opitutus	s__	1.00	3
+OTU_747	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Neisseriales	f__Neisseriaceae	g__Neisseria	0.67	3
+OTU_210	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Neisseriales	f__Neisseriaceae	g__	s__	1.00	3
+OTU_745	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Oxalobacteraceae	g__Janthinobacterium	s__lividum	0.67	3
+OTU_744	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__Flavobacterium	s__succinicans	0.67	3
+OTU_1464	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodobacterales	f__Rhodobacteraceae	g__Amaricoccus	s__	0.67	3
+OTU_1465	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Aerococcaceae	g__	s__	1.00	3
+OTU_749	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Porphyromonadaceae	g__Porphyromonas	s__	1.00	2
+OTU_748	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Aerococcaceae	g__	s__	1.00	3
+OTU_219	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Brevibacteriaceae	g__Brevibacterium	s__	1.00	3
+OTU_218	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__Caulobacteraceae	g__	s__	0.67	3
+OTU_1462	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__Capnocytophaga	s__	1.00	3
+OTU_1463	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Alcaligenaceae	g__	s__	0.67	3
+OTU_585	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__Flavobacterium	s__	1.00	3
+OTU_584	k__Bacteria	p__Cyanobacteria	c__Nostocophycideae	o__Nostocales	f__Nostocaceae	g__Nodularia	0.67	3
+OTU_587	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Streptomycetaceae	g__	s__	0.67	3
+OTU_586	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Porphyromonadaceae	g__Porphyromonas	s__	1.00	3
+OTU_581	k__Bacteria	p__Cyanobacteria	c__Synechococcophycideae	o__Pseudanabaenales	f__Pseudanabaenaceae	g__Leptolyngbya	s__	1.00	2
+OTU_580	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	0.67	3
+OTU_583	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__[Paraprevotellaceae]	g__Paraprevotella	s__	0.67	3
+OTU_582	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__G07	s__	1.00	3
+OTU_589	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Burkholderia	s__	0.67	3
+OTU_588	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Aerococcaceae	g__	s__	0.67	3
+OTU_361	k__Bacteria	p__Fusobacteria	c__Fusobacteriia	o__Fusobacteriales	f__Fusobacteriaceae	g__Fusobacterium	s__	1.00	3
+OTU_360	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_363	k__Bacteria	p__Acidobacteria	c__iii1-8	o__DS-18	f__	g__	s__	1.00	3
+OTU_362	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_365	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	s__	1.00	3
+OTU_364	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__	s__	1.00	3
+OTU_367	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	s__	1.00	3
+OTU_366	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Novosphingobium	s__	0.67	3
+OTU_369	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	g__Microbacterium	0.67	3
+OTU_368	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Jeotgalicoccus	s__psychrophilus	0.67	3
+OTU_691	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__	1.00	3
+OTU_690	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__	s__	0.67	3
+OTU_693	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	1.00	3
+OTU_692	k__Bacteria	p__Planctomycetes	c__Planctomycetia	o__Pirellulales	f__Pirellulaceae	g__A17	s__	1.00	3
+OTU_695	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Paenibacillaceae	g__Brevibacillus	s__laterosporus	1.00	3
+OTU_694	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	0.67	3
+OTU_697	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__Solirubrobacteraceae	g__	s__	0.67	3
+OTU_696	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__ph2	s__	1.00	2
+OTU_699	k__Bacteria	p__Acidobacteria	c__Acidobacteria-6	o__iii1-15	f__	g__	s__	1.00	3
+OTU_698	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Methylocystaceae	g__	s__	1.00	3
+OTU_1604	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__	s__	0.67	3
+OTU_1605	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__	1.00	3
+OTU_969	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Clostridiaceae	g__Clostridium	s__	1.00	3
+OTU_968	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__	g__	s__	1.00	3
+OTU_1600	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Porphyromonadaceae	g__Porphyromonas	s__	1.00	3
+OTU_1601	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__Cytophagaceae	g__	s__	1.00	3
+OTU_1602	Unassigned	1.00	1
+OTU_1603	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Bradyrhizobiaceae	g__Balneimonas	s__	0.67	3
+OTU_963	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	1.00	3
+OTU_962	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Intrasporangiaceae	g__	s__	0.67	3
+OTU_961	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Bacteroidaceae	g__Bacteroides	s__	1.00	3
+OTU_960	k__Bacteria	p__Gemmatimonadetes	c__Gemmatimonadetes	o__Gemmatimonadales	f__	g__	s__	0.67	3
+OTU_967	k__Bacteria	p__Firmicutes	c__Erysipelotrichi	o__Erysipelotrichales	f__Erysipelotrichaceae	g__Catenibacterium	s__	1.00	3
+OTU_966	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__Flavisolibacter	s__	1.00	3
+OTU_965	k__Bacteria	p__Acidobacteria	c__Acidobacteria-6	o__iii1-15	f__mb2424	g__	s__	1.00	3
+OTU_964	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_1737	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__	g__	s__	1.00	3
+OTU_1767	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodobacterales	f__Rhodobacteraceae	g__Rhodobacter	s__	0.67	3
+OTU_1688	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Methylocystaceae	g__Methylosinus	s__	0.67	3
+OTU_1689	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	g__	s__	1.00	3
+OTU_1118	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Bacteroidaceae	g__Bacteroides	s__	1.00	3
+OTU_1119	k__Bacteria	p__Actinobacteria	c__Nitriliruptoria	o__Euzebyales	f__Euzebyaceae	g__Euzebya	s__	1.00	1
+OTU_1110	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__[Weeksellaceae]	g__Chryseobacterium	s__	0.67	3
+OTU_1111	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Oxalobacteraceae	g__Massilia	0.67	3
+OTU_1112	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__	s__	0.67	3
+OTU_1113	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__[Amoebophilaceae]	g__CandidatusAmoebophilus	s__	0.67	3
+OTU_1114	k__Bacteria	p__Proteobacteria	c__Epsilonproteobacteria	o__Campylobacterales	f__Campylobacteraceae	g__Campylobacter	s__	1.00	3
+OTU_1115	k__Bacteria	p__Planctomycetes	c__Planctomycetia	o__Pirellulales	f__Pirellulaceae	g__	s__	1.00	3
+OTU_1116	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Peptoniphilus	s__	1.00	3
+OTU_1117	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Enterococcaceae	0.67	3
+OTU_1680	k__Bacteria	p__Verrucomicrobia	c__[Spartobacteria]	o__[Chthoniobacterales]	f__[Chthoniobacteraceae]	g__Ellin506	s__	0.67	3
+OTU_1681	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardiaceae	g__Rhodococcus	s__	0.67	3
+OTU_1275	k__Bacteria	p__[Thermi]	c__Deinococci	o__Deinococcales	f__Deinococcaceae	g__Deinococcus	s__	1.00	3
+OTU_1274	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_1277	k__Bacteria	p__[Thermi]	c__Deinococci	o__Deinococcales	f__Deinococcaceae	g__Deinococcus	s__	1.00	3
+OTU_1276	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__	s__	1.00	3
+OTU_1271	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	s__	1.00	3
+OTU_1270	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__Cytophagaceae	g__	s__	1.00	3
+OTU_1273	k__Bacteria	p__Acidobacteria	c__[Chloracidobacteria]	o__RB41	f__	g__	s__	1.00	3
+OTU_1272	k__Bacteria	p__Bacteroidetes	c__Sphingobacteriia	o__Sphingobacteriales	f__Sphingobacteriaceae	g__Pedobacter	s__	1.00	3
+OTU_1279	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__Cytophagaceae	g__Spirosoma	s__	1.00	3
+OTU_1278	Unassigned	1.00	1
+OTU_1073	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__	g__	s__	1.00	3
+OTU_1072	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__	s__	1.00	3
+OTU_1071	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__Ruminococcus	s__	0.67	3
+OTU_1070	Unassigned	1.00	1
+OTU_1077	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__Flavisolibacter	s__	1.00	3
+OTU_1076	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingomonas	0.67	3
+OTU_1075	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_1074	Unassigned	1.00	1
+OTU_1079	k__Bacteria	p__Elusimicrobia	c__Elusimicrobia	o__FAC88	f__	g__	s__	1.00	3
+OTU_1078	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__	s__	0.67	3
+OTU_1728	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__	g__	s__	1.00	3
+OTU_1766	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Hyphomicrobiaceae	g__	s__	1.00	3
+OTU_1299	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__	g__	s__	1.00	3
+OTU_1298	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__Propionibacterium	s__acnes	1.00	1
+OTU_1293	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Porphyromonadaceae	g__Porphyromonas	s__	1.00	3
+OTU_1292	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__Cytophagaceae	g__	s__	0.67	3
+OTU_1291	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__Solirubrobacteraceae	g__	s__	1.00	3
+OTU_1290	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__MIZ46	f__	g__	s__	1.00	3
+OTU_1297	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Peptostreptococcaceae	g__Filifactor	s__	0.67	3
+OTU_1296	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__Cytophagaceae	g__Spirosoma	s__	1.00	3
+OTU_1295	Unassigned	1.00	1
+OTU_1294	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Peptoniphilus	s__	1.00	3
+OTU_8	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_9	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Enterobacteriales	f__Enterobacteriaceae	0.67	3
+OTU_2	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Staphylococcus	0.67	3
+OTU_3	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__Propionibacterium	s__granulosum	0.67	3
+OTU_1	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__Propionibacterium	s__acnes	1.00	3
+OTU_6	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Neisseriales	f__Neisseriaceae	g__	s__	1.00	3
+OTU_7	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_4	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_5	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Planococcaceae	g__	s__	0.67	3
+OTU_202	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Trueperella	s__	1.00	3
+OTU_203	k__Bacteria	p__Fusobacteria	c__Fusobacteriia	o__Fusobacteriales	f__Leptotrichiaceae	g__Leptotrichia	s__	1.00	3
+OTU_200	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Neisseriales	f__Neisseriaceae	g__	s__	0.67	3
+OTU_201	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Micrococcaceae	g__Kocuria	s__palustris	0.67	3
+OTU_206	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Xanthomonadaceae	g__	s__	1.00	3
+OTU_207	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Methylobacteriaceae	g__Methylobacterium	0.67	3
+OTU_204	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__Capnocytophaga	s__	1.00	3
+OTU_205	k__Bacteria	p__Fusobacteria	c__Fusobacteriia	o__Fusobacteriales	f__Fusobacteriaceae	g__Fusobacterium	s__	1.00	3
+OTU_758	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Lactobacillaceae	g__Lactobacillus	s__	1.00	3
+OTU_759	k__Bacteria	p__Gemmatimonadetes	c__Gemmatimonadetes	o__	f__	g__	s__	0.67	3
+OTU_208	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__Caulobacteraceae	1.00	3
+OTU_209	k__Bacteria	p__Firmicutes	c__Bacilli	o__Gemellales	f__Gemellaceae	g__Gemella	s__	0.67	3
+OTU_1473	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__Veillonella	s__	0.67	3
+OTU_1472	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__	1.00	3
+OTU_1471	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Hyphomicrobiaceae	g__Devosia	s__	1.00	3
+OTU_1470	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__	g__	s__	1.00	3
+OTU_592	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__Flavobacterium	s__columnare	1.00	3
+OTU_593	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__	1.00	3
+OTU_590	k__Bacteria	p__Firmicutes	c__Erysipelotrichi	o__Erysipelotrichales	f__Erysipelotrichaceae	g__	s__	1.00	3
+OTU_591	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__Oscillospira	s__	1.00	3
+OTU_596	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	1
+OTU_597	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Paenibacillaceae	g__Paenibacillus	s__	1.00	3
+OTU_594	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Pseudomonadales	f__Moraxellaceae	g__Acinetobacter	s__	1.00	3
+OTU_595	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Porphyromonadaceae	g__Paludibacter	s__	1.00	3
+OTU_598	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Clostridiaceae	g__Clostridium	s__	1.00	3
+OTU_599	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Dermabacteraceae	g__Brachybacterium	s__	0.67	3
+OTU_1677	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__	g__	s__	1.00	3
+OTU_116	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__	1.00	3
+OTU_117	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Peptoniphilus	s__	1.00	3
+OTU_114	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	s__	1.00	3
+OTU_115	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__	s__	1.00	3
+OTU_112	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__	s__	0.67	3
+OTU_113	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Porphyromonadaceae	g__Porphyromonas	s__	1.00	3
+OTU_110	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodobacterales	f__Rhodobacteraceae	g__Paracoccus	s__	0.67	3
+OTU_111	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__[Paraprevotellaceae]	g__[Prevotella]	s__	1.00	3
+OTU_118	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	0.67	3
+OTU_119	k__Bacteria	p__Firmicutes	c__Bacilli	o__Gemellales	f__Gemellaceae	g__	s__	0.67	3
+OTU_378	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Alicyclobacillaceae	g__Alicyclobacillus	s__	1.00	3
+OTU_379	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Clostridiaceae	g__Clostridium	s__	1.00	3
+OTU_376	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Peptoniphilus	s__	1.00	3
+OTU_377	k__Bacteria	p__Cyanobacteria	c__Nostocophycideae	o__Nostocales	f__Nostocaceae	0.67	3
+OTU_374	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__	g__	s__	1.00	3
+OTU_375	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__	g__	s__	0.67	3
+OTU_372	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Bacteroidaceae	g__Bacteroides	s__uniformis	1.00	3
+OTU_373	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Micrococcaceae	0.67	3
+OTU_370	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__S24-7	g__	s__	1.00	3
+OTU_371	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__Cystobacteraceae	0.67	3
+OTU_688	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Rhizobiaceae	g__	s__	1.00	3
+OTU_689	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Gaiellales	f__Gaiellaceae	g__	s__	1.00	3
+OTU_686	Unassigned	1.00	1
+OTU_687	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_684	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Leuconostocaceae	g__Weissella	0.67	3
+OTU_685	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Neisseriales	f__Neisseriaceae	g__Kingella	s__	1.00	3
+OTU_682	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__Oscillospira	s__	0.67	3
+OTU_683	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodospirillales	f__Rhodospirillaceae	g__Skermanella	s__	1.00	3
+OTU_680	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	g__	s__	0.67	3
+OTU_681	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Paenibacillaceae	g__Brevibacillus	s__	1.00	3
+OTU_1527	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__	1.00	1
+OTU_1526	Unassigned	1.00	1
+OTU_1521	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodospirillales	f__Acetobacteraceae	g__	s__	1.00	3
+OTU_1520	k__Bacteria	p__Acidobacteria	c__Acidobacteria-6	o__iii1-15	f__	g__	s__	1.00	3
+OTU_978	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__	s__	1.00	3
+OTU_979	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Streptomycetaceae	g__Streptomyces	s__	0.67	3
+OTU_1615	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Rhodocyclales	f__Rhodocyclaceae	g__Azospira	s__	0.67	3
+OTU_1614	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Hyphomicrobiaceae	g__Rhodoplanes	s__	1.00	3
+OTU_1613	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Staphylococcus	s__aureus	1.00	3
+OTU_1612	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	1.00	3
+OTU_1611	k__Bacteria	p__Firmicutes	c__Erysipelotrichi	o__Erysipelotrichales	f__Erysipelotrichaceae	g__Sharpea	s__	1.00	2
+OTU_1610	Unassigned	1.00	1
+OTU_970	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__	f__	g__	s__	1.00	2
+OTU_971	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	s__	1.00	3
+OTU_972	k__Bacteria	p__Bacteroidetes	c__Sphingobacteriia	o__Sphingobacteriales	f__Sphingobacteriaceae	g__Sphingobacterium	s__multivorum	1.00	3
+OTU_973	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Gaiellales	f__Gaiellaceae	g__	s__	1.00	3
+OTU_974	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__Veillonella	s__parvula	1.00	3
+OTU_975	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Methylobacteriaceae	g__	s__	1.00	3
+OTU_976	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__MWH-UniP1	f__	g__	s__	1.00	3
+OTU_977	k__Bacteria	p__Nitrospirae	c__Nitrospira	o__Nitrospirales	f__0319-6A21	g__	s__	1.00	3
+OTU_134	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Lactobacillaceae	g__Lactobacillus	s__	1.00	3
+OTU_135	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_640	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Peptostreptococcaceae	g__	s__	1.00	3
+OTU_1617	k__Bacteria	p__Cyanobacteria	c__ML635J-21	o__	f__	g__	s__	1.00	3
+OTU_641	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Clostridiaceae	g__Clostridium	s__	1.00	1
+OTU_1616	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Porphyromonadaceae	g__Porphyromonas	s__	1.00	3
+OTU_130	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__	1.00	3
+OTU_131	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__Capnocytophaga	s__	1.00	3
+OTU_132	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__Comamonas	s__	0.67	3
+OTU_133	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Brevibacteriaceae	g__Brevibacterium	s__	0.67	3
+OTU_1109	k__Bacteria	p__Firmicutes	c__Erysipelotrichi	o__Erysipelotrichales	f__Erysipelotrichaceae	g__[Eubacterium]	s__biforme	1.00	3
+OTU_1108	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__	s__	0.67	3
+OTU_1758	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Bacteroidaceae	g__Bacteroides	s__	1.00	3
+OTU_1103	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Leuconostocaceae	g__Leuconostoc	s__	1.00	3
+OTU_1102	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__	s__	0.67	3
+OTU_1101	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Frankiaceae	g__	s__	0.67	3
+OTU_1100	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__GW-34	s__	1.00	3
+OTU_1107	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Methylophilales	f__Methylophilaceae	g__	s__	0.67	3
+OTU_1106	k__Bacteria	p__Actinobacteria	c__Coriobacteriia	o__Coriobacteriales	f__Coriobacteriaceae	g__Atopobium	0.67	3
+OTU_1105	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Pseudonocardiaceae	g__Pseudonocardia	s__	1.00	3
+OTU_1104	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Geodermatophilaceae	g__Geodermatophilus	s__	0.67	3
+OTU_1756	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__	0.67	3
+OTU_190	k__Bacteria	p__Fusobacteria	c__Fusobacteriia	o__Fusobacteriales	f__Leptotrichiaceae	g__Leptotrichia	s__	1.00	3
+OTU_1757	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	g__Coprococcus	s__	1.00	3
+OTU_1619	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__Oscillospira	s__	1.00	3
+OTU_1618	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__	s__	1.00	3
+OTU_1046	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__[Weeksellaceae]	g__	s__	1.00	2
+OTU_1047	Unassigned	1.00	1
+OTU_1044	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	g__[Ruminococcus]	s__gnavus	0.67	3
+OTU_1045	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Porphyromonadaceae	g__Porphyromonas	s__	1.00	1
+OTU_1042	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__	g__	s__	1.00	3
+OTU_1043	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodobacterales	f__Rhodobacteraceae	g__Rhodobacter	s__	1.00	3
+OTU_1040	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__	s__	0.67	3
+OTU_1041	k__Bacteria	p__Bacteroidetes	c__Sphingobacteriia	o__Sphingobacteriales	f__Sphingobacteriaceae	g__Pedobacter	s__	0.67	3
+OTU_1048	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__	s__	1.00	3
+OTU_1049	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__	g__	s__	0.67	3
+OTU_1747	k__Bacteria	p__Chlorobi	c__Ignavibacteria	o__Ignavibacteriales	1.00	2
+OTU_1475	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Staphylococcus	s__epidermidis	1.00	3
+OTU_818	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Parvimonas	s__	1.00	3
+OTU_1439	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Staphylococcus	s__epidermidis	0.67	3
+OTU_1419	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Sporichthyaceae	g__	s__	1.00	3
+OTU_1418	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__[Weeksellaceae]	1.00	3
+OTU_1442	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__[Weeksellaceae]	g__Elizabethkingia	s__meningoseptica	0.67	3
+OTU_1443	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	g__	s__	0.67	3
+OTU_1440	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	s__	1.00	3
+OTU_1412	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__	1.00	1
+OTU_769	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__	g__	s__	1.00	3
+OTU_768	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Dermabacteraceae	g__Brachybacterium	s__	0.67	3
+OTU_1444	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__[Weeksellaceae]	g__	s__	1.00	3
+OTU_1445	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Geobacillus	s__	1.00	3
+OTU_765	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__Cytophagaceae	g__	s__	1.00	1
+OTU_764	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__Flavisolibacter	s__	1.00	3
+OTU_767	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Paenibacillaceae	g__Paenibacillus	s__	1.00	3
+OTU_766	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__[Paraprevotellaceae]	g__[Prevotella]	s__tannerae	1.00	3
+OTU_761	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Kineosporiaceae	g__	s__	0.67	3
+OTU_760	k__Bacteria	p__Cyanobacteria	c__Oscillatoriophycideae	o__Oscillatoriales	f__Phormidiaceae	g__Phormidium	s__	1.00	3
+OTU_763	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__	g__	s__	1.00	3
+OTU_762	k__Bacteria	p__Tenericutes	c__Mollicutes	o__RF39	f__	g__	s__	1.00	3
+OTU_1417	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__Propionibacterium	s__acnes	1.00	3
+OTU_569	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Rhizobiaceae	g__Agrobacterium	s__	0.67	3
+OTU_568	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Clostridiaceae	g__	s__	1.00	3
+OTU_567	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	1.00	3
+OTU_566	k__Bacteria	p__Acidobacteria	c__iii1-8	o__DS-18	f__	g__	s__	1.00	3
+OTU_565	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Hyphomicrobiaceae	g__Rhodoplanes	s__	1.00	3
+OTU_564	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Alcaligenaceae	g__Achromobacter	s__	0.67	3
+OTU_563	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__Nocardioides	s__	0.67	3
+OTU_562	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Comamonadaceae	g__Limnohabitans	s__	0.67	3
+OTU_561	k__Bacteria	p__Firmicutes	c__Erysipelotrichi	o__Erysipelotrichales	f__Erysipelotrichaceae	g__Bulleidia	1.00	2
+OTU_560	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__Flavobacterium	s__	1.00	3
+OTU_1550	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__Propionibacterium	s__acnes	1.00	3
+OTU_1551	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_1552	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__	1.00	3
+OTU_163	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Aerococcaceae	g__Facklamia	s__	1.00	3
+OTU_95	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_96	k__Bacteria	p__Fusobacteria	c__Fusobacteriia	o__Fusobacteriales	f__Fusobacteriaceae	g__Fusobacterium	s__	1.00	3
+OTU_160	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	0.67	3
+OTU_167	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Micrococcaceae	0.67	3
+OTU_166	k__Bacteria	p__Fusobacteria	c__Fusobacteriia	o__Fusobacteriales	f__Leptotrichiaceae	g__Leptotrichia	s__	1.00	3
+OTU_165	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Macrococcus	s__caseolyticus	0.67	3
+OTU_164	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Enterococcaceae	g__Enterococcus	s__	0.67	3
+OTU_1554	k__Bacteria	p__Fusobacteria	c__Fusobacteriia	o__Fusobacteriales	f__Leptotrichiaceae	g__Leptotrichia	s__	1.00	3
+OTU_169	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__[Weeksellaceae]	g__	s__	1.00	3
+OTU_168	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Aerococcaceae	g__Facklamia	s__	1.00	3
+OTU_98	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	1.00	3
+OTU_99	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__Caulobacteraceae	g__	s__	1.00	3
+OTU_1555	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Frankiaceae	g__	s__	0.67	3
+OTU_187	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__Dialister	s__	1.00	3
+OTU_186	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Bacteroidaceae	g__Bacteroides	s__	0.67	3
+OTU_189	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__copri	1.00	3
+OTU_309	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Xanthomonadaceae	g__	s__	0.67	3
+OTU_308	k__Bacteria	p__[Thermi]	c__Deinococci	o__Deinococcales	f__Deinococcaceae	g__Deinococcus	s__geothermalis	0.67	3
+OTU_188	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__[Weeksellaceae]	g__	s__	1.00	3
+OTU_303	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__	1.00	3
+OTU_302	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__Megamonas	s__	0.67	3
+OTU_301	k__Bacteria	p__Gemmatimonadetes	c__Gemm-1	o__	f__	g__	s__	1.00	3
+OTU_300	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Jeotgalicoccus	s__	1.00	3
+OTU_307	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__ph2	s__	1.00	2
+OTU_306	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Carnobacteriaceae	g__Trichococcus	s__	1.00	3
+OTU_305	k__Bacteria	p__Cyanobacteria	c__Chloroplast	o__Streptophyta	f__	g__	s__	1.00	3
+OTU_304	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Alicyclobacillaceae	g__Alicyclobacillus	s__	1.00	3
+OTU_1594	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Kineosporiaceae	g__	s__	0.67	3
+OTU_1595	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__	1.00	3
+OTU_1596	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Rhizobiaceae	g__Agrobacterium	s__	0.67	3
+OTU_1597	Unassigned	1.00	1
+OTU_1590	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Bacteroidaceae	g__Bacteroides	s__	1.00	3
+OTU_1591	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__Oscillospira	s__	0.67	3
+OTU_1592	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Paenibacillaceae	g__Paenibacillus	s__	1.00	3
+OTU_1593	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__	g__	s__	0.67	3
+OTU_1598	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_1599	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__	g__	s__	0.67	3
+OTU_417	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__Faecalibacterium	s__prausnitzii	0.67	3
+OTU_944	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Mogibacteriaceae]	g__	s__	0.67	3
+OTU_415	Unassigned	1.00	1
+OTU_414	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Rikenellaceae	g__	s__	1.00	3
+OTU_413	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__Friedmanniella	s__	0.67	3
+OTU_412	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Lactococcus	s__	1.00	3
+OTU_411	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__G07	s__	1.00	3
+OTU_942	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	1.00	3
+OTU_1622	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__	g__	s__	1.00	3
+OTU_1623	k__Bacteria	p__Verrucomicrobia	c__[Spartobacteria]	o__[Chthoniobacterales]	f__[Chthoniobacteraceae]	g__	s__	0.67	3
+OTU_1620	k__Bacteria	p__Fusobacteria	c__Fusobacteriia	o__Fusobacteriales	f__Leptotrichiaceae	g__Leptotrichia	s__	1.00	3
+OTU_1621	k__Bacteria	p__[Thermi]	c__Deinococci	o__Thermales	f__Thermaceae	g__Thermus	s__	1.00	3
+OTU_949	Unassigned	1.00	1
+OTU_948	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Gaiellales	f__Gaiellaceae	g__	s__	1.00	3
+OTU_419	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Oxalobacteraceae	g__	s__	1.00	3
+OTU_418	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	g__CandidatusAquiluna	s__rubra	0.67	3
+OTU_787	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Aerococcaceae	g__Facklamia	s__	1.00	3
+OTU_786	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__MND1	f__	g__	s__	1.00	3
+OTU_785	Unassigned	1.00	1
+OTU_784	k__Bacteria	p__[Thermi]	c__Deinococci	o__Deinococcales	f__Deinococcaceae	g__Deinococcus	s__	1.00	2
+OTU_783	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	1.00	3
+OTU_782	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__	g__	s__	0.67	3
+OTU_781	k__Bacteria	p__Nitrospirae	c__Nitrospira	o__Nitrospirales	f__0319-6A21	g__	s__	1.00	3
+OTU_780	k__Bacteria	p__Firmicutes	c__Bacilli	o__Turicibacterales	f__Turicibacteraceae	g__Turicibacter	s__	1.00	3
+OTU_1667	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__Flavobacterium	s__	0.67	3
+OTU_789	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__Nocardioides	s__	1.00	3
+OTU_788	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__Caulobacteraceae	g__Phenylobacterium	s__	1.00	3
+OTU_1138	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__	g__	s__	0.67	3
+OTU_1139	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__	s__	1.00	3
+OTU_1136	Unassigned	1.00	1
+OTU_1137	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Paenibacillaceae	g__Paenibacillus	s__	1.00	3
+OTU_1134	k__Bacteria	p__Firmicutes	c__Bacilli	o__Turicibacterales	f__Turicibacteraceae	g__Turicibacter	s__	1.00	3
+OTU_1135	k__Bacteria	p__Planctomycetes	c__Planctomycetia	o__Gemmatales	f__Gemmataceae	g__Gemmata	s__	1.00	3
+OTU_1132	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Varibaculum	s__	1.00	3
+OTU_1133	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	1.00	3
+OTU_1130	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__Propionibacterium	s__acnes	1.00	3
+OTU_1131	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Rhodocyclales	f__Rhodocyclaceae	g__Dechloromonas	s__	0.67	3
+OTU_1059	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__	g__	s__	1.00	3
+OTU_1058	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__	f__	g__	s__	1.00	1
+OTU_1051	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__[Paraprevotellaceae]	g__[Prevotella]	s__	0.67	3
+OTU_1050	Unassigned	1.00	1
+OTU_1053	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rickettsiales	f__	g__	s__	1.00	3
+OTU_1052	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Aerococcaceae	g__Aerococcus	s__	1.00	3
+OTU_1055	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	0.67	3
+OTU_1054	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Hyphomicrobiaceae	g__	s__	0.67	3
+OTU_1057	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__	g__	s__	1.00	3
+OTU_1056	k__Bacteria	p__Bacteroidetes	c__Sphingobacteriia	o__Sphingobacteriales	f__Sphingobacteriaceae	g__	s__	1.00	2
+OTU_1529	k__Bacteria	p__GN02	c__BD1-5	o__	f__	g__	s__	1.00	3
+OTU_1528	k__Bacteria	p__Acidobacteria	c__iii1-8	o__DS-18	f__	g__	s__	1.00	3
+OTU_822	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_1759	k__Bacteria	p__Planctomycetes	c__Planctomycetia	o__Pirellulales	f__Pirellulaceae	g__	s__	0.67	3
+OTU_823	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__Flavisolibacter	s__	1.00	3
+OTU_356	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Enterococcaceae	g__Vagococcus	0.67	3
+OTU_821	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Cellulomonadaceae	g__Actinotalea	s__	1.00	3
+OTU_826	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Lactobacillaceae	g__Lactobacillus	s__	1.00	3
+OTU_827	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodospirillales	f__Rhodospirillaceae	g__Azospirillum	s__	1.00	3
+OTU_824	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__Myxococcaceae	g__Anaeromyxobacter	s__	1.00	3
+OTU_825	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodospirillales	f__Acetobacteraceae	g__	s__	1.00	3
+OTU_981	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Intrasporangiaceae	g__Phycicoccus	s__	0.67	3
+OTU_1699	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__	s__	0.67	3
+OTU_980	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__Myxococcaceae	g__Anaeromyxobacter	s__	1.00	3
+OTU_451	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	s__	1.00	3
+OTU_450	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingobium	s__	0.67	3
+OTU_457	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	g__	s__	1.00	3
+OTU_984	Unassigned	1.00	1
+OTU_987	k__Bacteria	p__Planctomycetes	c__Planctomycetia	o__Gemmatales	f__Isosphaeraceae	g__	s__	1.00	3
+OTU_986	k__Bacteria	p__Acidobacteria	c__Acidobacteria-6	o__iii1-15	f__mb2424	g__	s__	1.00	3
+OTU_1638	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	g__Coprococcus	s__	1.00	3
+OTU_1455	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Ruminococcaceae	g__	s__	0.67	3
+OTU_1454	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	1.00	3
+OTU_778	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Micromonosporaceae	1.00	3
+OTU_779	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Pseudonocardiaceae	g__Pseudonocardia	s__	1.00	3
+OTU_1451	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__BD7-3	f__	g__	s__	1.00	3
+OTU_1450	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__Friedmanniella	s__	0.67	3
+OTU_1453	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Staphylococcus	s__epidermidis	1.00	3
+OTU_1452	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__	s__	1.00	3
+OTU_772	k__Bacteria	p__[Thermi]	c__Deinococci	o__Deinococcales	f__Deinococcaceae	g__Deinococcus	s__	1.00	3
+OTU_773	k__Bacteria	p__Cyanobacteria	c__Oscillatoriophycideae	o__Chroococcales	f__Xenococcaceae	g__	s__	1.00	3
+OTU_770	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodospirillales	f__Rhodospirillaceae	g__	s__	1.00	1
+OTU_771	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__	g__	s__	1.00	3
+OTU_776	k__Bacteria	p__Tenericutes	c__Mollicutes	o__RF39	f__	g__	s__	1.00	2
+OTU_777	Unassigned	1.00	1
+OTU_774	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__Solirubrobacteraceae	g__	s__	0.67	3
+OTU_775	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__	s__	1.00	3
+OTU_578	k__Bacteria	p__Firmicutes	c__Erysipelotrichi	o__Erysipelotrichales	f__Erysipelotrichaceae	g__[Eubacterium]	s__dolichum	1.00	3
+OTU_579	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Micrococcaceae	g__	s__	1.00	3
+OTU_574	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	g__Leucobacter	s__	1.00	3
+OTU_575	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__	g__	s__	1.00	3
+OTU_576	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__Aeromicrobium	s__	1.00	3
+OTU_577	k__Bacteria	p__Verrucomicrobia	c__Verrucomicrobiae	o__Verrucomicrobiales	f__Verrucomicrobiaceae	g__Akkermansia	s__muciniphila	1.00	3
+OTU_570	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	1.00	3
+OTU_571	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Lactobacillaceae	g__Lactobacillus	s__	1.00	2
+OTU_572	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__Caulobacteraceae	g__	s__	1.00	3
+OTU_573	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodospirillales	f__Rhodospirillaceae	g__	s__	1.00	3
+OTU_1658	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Carnobacteriaceae	g__Carnobacterium	s__viridans	0.67	3
+OTU_83	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__Megasphaera	s__	0.67	3
+OTU_82	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Neisseriales	f__Neisseriaceae	g__Neisseria	s__subflava	0.67	3
+OTU_81	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Lactobacillaceae	g__Lactobacillus	s__	1.00	3
+OTU_80	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__	0.67	3
+OTU_174	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Neisseriales	f__Neisseriaceae	g__Neisseria	s__cinerea	1.00	3
+OTU_175	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Intrasporangiaceae	g__Janibacter	s__	1.00	3
+OTU_176	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Varibaculum	s__	1.00	3
+OTU_84	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Actinomycetaceae	g__Actinomyces	s__	1.00	3
+OTU_178	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Novosphingobium	s__	1.00	3
+OTU_179	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__[Paraprevotellaceae]	g__[Prevotella]	s__	0.67	3
+OTU_89	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__	1.00	1
+OTU_88	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Xanthomonadaceae	g__Stenotrophomonas	s__	0.67	3
+OTU_318	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__S24-7	g__	s__	1.00	3
+OTU_319	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__Flavobacterium	s__	1.00	3
+OTU_310	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__Propionibacterium	s__acnes	1.00	3
+OTU_311	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Lactobacillaceae	g__Lactobacillus	s__	0.67	3
+OTU_312	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	0.67	3
+OTU_313	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Micrococcaceae	g__	s__	1.00	3
+OTU_314	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Mycobacteriaceae	g__Mycobacterium	s__	0.67	3
+OTU_315	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	0.67	3
+OTU_316	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__copri	0.67	3
+OTU_317	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Planococcaceae	g__Sporosarcina	s__	1.00	3
+OTU_1587	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Pseudonocardiaceae	g__Pseudonocardia	s__	0.67	3
+OTU_1586	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__	g__	s__	1.00	3
+OTU_1585	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__	s__	1.00	3
+OTU_1584	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Hyphomicrobiaceae	g__Rhodoplanes	s__	1.00	3
+OTU_1583	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__Selenomonas	s__	1.00	3
+OTU_1582	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Aerococcaceae	g__Facklamia	s__	1.00	3
+OTU_1581	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Planococcaceae	g__	s__	1.00	3
+OTU_1580	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Sinobacteraceae	g__Steroidobacter	s__	1.00	3
+OTU_1589	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	1.00	3
+OTU_1588	k__Bacteria	p__Bacteroidetes	c__Sphingobacteriia	o__Sphingobacteriales	f__Sphingobacteriaceae	g__	s__	1.00	3
+OTU_952	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	1.00	3
+OTU_953	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__Caulobacteraceae	g__	s__	1.00	3
+OTU_950	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	1.00	3
+OTU_951	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Pseudonocardiaceae	g__Actinomycetospora	s__	1.00	3
+OTU_956	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Prevotellaceae	g__Prevotella	s__	1.00	1
+OTU_957	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Legionellales	f__Legionellaceae	1.00	3
+OTU_954	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__	g__	s__	1.00	3
+OTU_955	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	1.00	3
+OTU_1635	Unassigned	1.00	1
+OTU_1634	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Clostridiaceae	g__Clostridium	s__	0.67	3
+OTU_958	k__Bacteria	p__Chlorobi	c__OPB56	o__	f__	g__	s__	1.00	1
+OTU_959	k__Bacteria	p__Acidobacteria	c__[Chloracidobacteria]	o__RB41	f__	g__	s__	1.00	3
+OTU_408	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__S24-7	g__	s__	1.00	3
+OTU_409	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Tissierellaceae]	g__Gallicola	s__	1.00	3
+OTU_1633	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__	g__	s__	1.00	3
+OTU_1632	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodospirillales	f__Rhodospirillaceae	g__	s__	1.00	3
+OTU_794	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__	g__	s__	1.00	3
+OTU_795	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__	0.67	3
+OTU_796	k__Bacteria	p__TM7	c__TM7-1	o__	f__	g__	s__	1.00	3
+OTU_797	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__ACK-M1	g__	s__	1.00	3
+OTU_790	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Methylocystaceae	g__Pleomorphomonas	s__	0.67	3
+OTU_791	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Staphylococcus	1.00	3
+OTU_792	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Alicyclobacillaceae	g__Alicyclobacillus	s__	1.00	3
+OTU_793	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Alcaligenaceae	g__	s__	0.67	3
+OTU_798	k__Bacteria	p__Bacteroidetes	c__Sphingobacteriia	o__Sphingobacteriales	f__Sphingobacteriaceae	g__Pedobacter	s__	1.00	3
+OTU_799	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__	f__	g__	s__	1.00	3
+OTU_1121	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Cellulomonadaceae	g__Actinotalea	s__	1.00	3
+OTU_1120	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__[Paraprevotellaceae]	g__[Prevotella]	s__	0.67	3
+OTU_1123	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	s__	1.00	3
+OTU_1122	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Methylocystaceae	g__	s__	0.67	3
+OTU_1125	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__Flavobacterium	s__	0.67	3
+OTU_1124	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Hyphomicrobiaceae	g__Hyphomicrobium	s__	1.00	3
+OTU_1127	k__Bacteria	p__Bacteroidetes	c__[Saprospirae]	o__[Saprospirales]	f__Chitinophagaceae	g__	s__	1.00	3
+OTU_1126	Unassigned	1.00	1
+OTU_1129	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodospirillales	f__Rhodospirillaceae	g__	s__	1.00	2
+OTU_1128	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__	0.67	3
+OTU_1028	k__Bacteria	p__Bacteroidetes	c__Sphingobacteriia	o__Sphingobacteriales	f__Sphingobacteriaceae	g__	s__	1.00	3
+OTU_1029	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Lactobacillaceae	g__Lactobacillus	s__zeae	1.00	3
+OTU_1024	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__Cytophagaceae	g__Hymenobacter	s__	1.00	3
+OTU_1025	k__Bacteria	p__Bacteroidetes	c__Flavobacteriia	o__Flavobacteriales	f__Flavobacteriaceae	g__Capnocytophaga	s__	1.00	3
+OTU_1026	k__Bacteria	p__Verrucomicrobia	c__Verrucomicrobiae	o__Verrucomicrobiales	f__Verrucomicrobiaceae	g__Luteolibacter	s__	1.00	3
+OTU_1027	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__Myxococcaceae	g__Myxococcus	s__	0.67	3
+OTU_1020	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Clostridiaceae	g__Caloramator	s__	1.00	3
+OTU_1021	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodospirillales	f__Rhodospirillaceae	g__	s__	1.00	3
+OTU_1022	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Thiotrichales	f__Piscirickettsiaceae	g__	s__	0.67	3
+OTU_1023	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__	g__	s__	1.00	3
+OTU_1509	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Cellulomonadaceae	g__Demequina	s__	1.00	3
+OTU_1508	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__	g__	s__	1.00	3
+OTU_1507	k__Bacteria	p__Planctomycetes	c__Planctomycetia	o__Gemmatales	f__Isosphaeraceae	g__	s__	1.00	3
+OTU_1506	k__Bacteria	p__TM7	c__TM7-3	o__	f__	g__	s__	1.00	1
+OTU_1769	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__S24-7	g__	s__	1.00	3
+OTU_1778	k__Bacteria	p__Bacteroidetes	c__Cytophagia	o__Cytophagales	f__Cytophagaceae	g__Adhaeribacter	s__	1.00	3
+OTU_1538	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__[Mogibacteriaceae]	g__	s__	1.00	3
+OTU_1779	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Symbiobacteriaceae	g__Symbiobacterium	s__	1.00	3
+OTU_1768	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	0.67	3
+OTU_1330	k__Bacteria	p__Proteobacteria	c__Deltaproteobacteria	o__Myxococcales	f__	g__	s__	1.00	3
+OTU_1331	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Pseudomonadales	f__Moraxellaceae	g__	s__	0.67	3
+OTU_1332	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Intrasporangiaceae	g__	s__	0.67	3
+OTU_1333	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Staphylococcus	s__epidermidis	0.67	3
+OTU_1334	k__Bacteria	p__Actinobacteria	c__Thermoleophilia	o__Solirubrobacterales	f__	g__	s__	1.00	3
+OTU_1335	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	1.00	3
+OTU_1336	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Planococcaceae	g__	s__	1.00	3
+OTU_1337	k__Bacteria	p__Planctomycetes	c__Planctomycetia	o__Gemmatales	f__Gemmataceae	g__	s__	1.00	2
+OTU_1338	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Propionibacteriaceae	g__Propionibacterium	s__	0.67	3
+OTU_1339	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nakamurellaceae	g__	s__	0.67	3
+OTU_1676	k__Bacteria	p__[Thermi]	c__Deinococci	o__Deinococcales	f__Deinococcaceae	g__Deinococcus	s__	1.00	3
+OTU_1679	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	1.00	3
+OTU_1678	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__	s__	1.00	3
+OTU_1773	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__	g__	s__	1.00	3
+OTU_1776	k__Bacteria	p__TM7	c__TM7-1	o__	f__	g__	s__	1.00	2
+OTU_1777	k__Bacteria	p__Chloroflexi	c__S085	o__	f__	g__	s__	1.00	3
+OTU_1479	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Porphyromonadaceae	g__Porphyromonas	s__	1.00	3
+OTU_1478	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	g__	s__	0.67	3
+OTU_1477	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Burkholderia	s__	0.67	3
+OTU_549	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__	0.67	3
+OTU_548	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Porphyromonadaceae	g__Tannerella	s__	1.00	3
+OTU_144	k__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Methylobacteriaceae	g__Methylobacterium	s__	1.00	3
+OTU_541	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Staphylococcus	s__	0.67	3
+OTU_540	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	0.67	3
+OTU_543	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Lachnospiraceae	0.67	3
+OTU_542	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Nocardioidaceae	g__Nocardioides	s__	1.00	3
+OTU_545	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Bacillaceae	g__Bacillus	s__	1.00	3
+OTU_544	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Brevibacteriaceae	g__Brevibacterium	s__	1.00	3
+OTU_547	k__Bacteria	p__Bacteroidetes	c__Bacteroidia	o__Bacteroidales	f__Bacteroidaceae	g__Bacteroides	s__	1.00	3
+OTU_546	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Pseudomonadales	f__Moraxellaceae	g__Moraxella	s__	0.67	3
+OTU_146	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Microbacteriaceae	g__Pseudoclavibacter	s__bifida	0.67	3
+OTU_141	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Pseudomonadales	f__Moraxellaceae	g__Acinetobacter	s__	0.67	3
+OTU_140	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Corynebacteriaceae	g__Corynebacterium	s__	0.67	3
+OTU_149	k__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Xanthomonadaceae	0.67	3
+OTU_148	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__Dialister	s__	1.00	2
+OTU_78	k__Bacteria	p__Actinobacteria	c__Actinobacteria	o__Actinomycetales	f__Micrococcaceae	g__Kocuria	s__	1.00	3
+OTU_79	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Neisseriales	f__Neisseriaceae	g__	s__	1.00	3
+OTU_76	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Enterococcaceae	g__Enterococcus	s__	0.67	3
+OTU_77	k__Bacteria	p__Proteobacteria	c__Betaproteobacteria	o__Burkholderiales	0.67	3
+OTU_626	k__Bacteria	p__Actinobacteria	c__Coriobacteriia	o__Coriobacteriales	f__Coriobacteriaceae	g__Atopobium	s__	0.67	3
+OTU_75	k__Bacteria	p__Firmicutes	c__Clostridia	o__Clostridiales	f__Veillonellaceae	g__Dialister	s__	1.00	3
+OTU_72	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	s__	0.67	3
+OTU_73	k__Bacteria	p__Firmicutes	c__Bacilli	o__Bacillales	f__Staphylococcaceae	g__Staphylococcus	s__	1.00	3
+OTU_70	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Streptococcaceae	g__Streptococcus	s__	1.00	3
+OTU_71	k__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Carnobacteriaceae	g__Granulicatella	s__	1.00	3
